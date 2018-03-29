@@ -18,7 +18,7 @@ De iconenset bestaat uit meer dan 70 iconen en wordt doorlopend aangevuld door a
 
 1. Stuur een omschrijving van het ontbrekende icoon naar [hello@ponydesignclub.nl](mailto:hello@ponydesignclub.nl)
 2. Je ontvangt een offerte
-3. Na akkoord wordt het icoon ontworpen en toegevoegd. Waarna er door iedereen gebruik van gemaakt kan worden :)
+3. Na akkoord wordt het icoon ontworpen en toegevoegd aan de set
 
 ## Dit werk valt onder een CC BY-NC-ND 4.0* licentie
 
