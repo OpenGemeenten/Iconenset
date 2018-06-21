@@ -6,13 +6,19 @@ We onthouden slechts 10% van wat we horen, ongeveer 20% van wat we lezen en maar
 
 Pony Design Club heeft samen met gemeente Veenendaal een iconenset ontwikkeld voor gemeentelijke toptaken websites. Door de iconen te combineren met toptaken vindt een bezoeker sneller en makkelijker de informatie waar hij naar op zoek is.
 
-De iconenset bestaat uit meer dan 70 iconen en wordt doorlopend aangevuld door andere gemeentes en overheidsinstanties.
+De iconenset bestaat uit meer dan 70 iconen en wordt doorlopend aangevuld door andere gemeenten en overheidsinstanties.
 
 - [Gemeente Veenendaal](https://www.veenendaal.nl/)
 - [Gemeente Barneveld](https://www.barneveld.nl/)
 - [Gemeente Wijk bij Duurstede](https://www.wijkbijduurstede.nl/)
 - [Gemiva-SVG Groep](https://www.gemiva-svg.nl/)
 - [TYPO3gem](https://www.typo3gem.nl/)
+- [Gemeente Katwijk](https://www.katwijk.nl/)
+- [Gemeente Bergen NH](https://www.bergen-nh.nl/)
+- [Gemeente Uitgeest] (https://www.uitgeest.nl/)
+- [Gemeente Castricum] (https://www.castricum.nl/)
+- [Gemeente Heiloo] (https://www.heiloo.nl/)
+- [Gemeente Medemblik] (https://www.medemblik.nl/)
 
 ## Mis je een icoon?
 
