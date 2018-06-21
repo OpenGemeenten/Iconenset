@@ -15,10 +15,10 @@ De iconenset bestaat uit meer dan 70 iconen en wordt doorlopend aangevuld door a
 - [TYPO3gem](https://www.typo3gem.nl/)
 - [Gemeente Katwijk](https://www.katwijk.nl/)
 - [Gemeente Bergen NH](https://www.bergen-nh.nl/)
-- [Gemeente Uitgeest] (https://www.uitgeest.nl/)
-- [Gemeente Castricum] (https://www.castricum.nl/)
-- [Gemeente Heiloo] (https://www.heiloo.nl/)
-- [Gemeente Medemblik] (https://www.medemblik.nl/)
+- [Gemeente Uitgeest](https://www.uitgeest.nl/)
+- [Gemeente Castricum](https://www.castricum.nl/)
+- [Gemeente Heiloo](https://www.heiloo.nl/)
+- [Gemeente Medemblik](https://www.medemblik.nl/)
 
 ## Mis je een icoon?
 
