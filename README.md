@@ -8,17 +8,9 @@ Pony Design Club heeft samen met gemeente Veenendaal een iconenset ontwikkeld vo
 
 De iconenset bestaat uit meer dan 70 iconen en wordt doorlopend aangevuld door andere gemeenten en overheidsinstanties.
 
-- [Gemeente Veenendaal](https://www.veenendaal.nl/)
-- [Gemeente Barneveld](https://www.barneveld.nl/)
-- [Gemeente Wijk bij Duurstede](https://www.wijkbijduurstede.nl/)
-- [Gemiva-SVG Groep](https://www.gemiva-svg.nl/)
-- [TYPO3gem](https://www.typo3gem.nl/)
-- [Gemeente Katwijk](https://www.katwijk.nl/)
-- [Gemeente Bergen NH](https://www.bergen-nh.nl/)
-- [Gemeente Uitgeest](https://www.uitgeest.nl/)
-- [Gemeente Castricum](https://www.castricum.nl/)
-- [Gemeente Heiloo](https://www.heiloo.nl/)
-- [Gemeente Medemblik](https://www.medemblik.nl/)
+## Overzicht
+
+<img src="https://www.ponydesignclub.nl/ope/assets/ope-iconen-overzicht.png">
 
 ## Mis je een icoon?
 
@@ -46,3 +38,17 @@ De licentiegever kan deze toestemming niet intrekken zolang aan de licentievoorw
 **Geen aanvullende restricties** — Je mag geen juridische voorwaarden of technologische voorzieningen toepassen die anderen er juridisch in beperken om iets te doen wat de licentie toestaat.
 
 [Bekijk de volledige licentie](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.nl)
+
+## Mede mogelijk gemaakt door
+
+- [Gemeente Veenendaal](https://www.veenendaal.nl/)
+- [Gemeente Barneveld](https://www.barneveld.nl/)
+- [Gemeente Wijk bij Duurstede](https://www.wijkbijduurstede.nl/)
+- [Gemiva-SVG Groep](https://www.gemiva-svg.nl/)
+- [TYPO3gem](https://www.typo3gem.nl/)
+- [Gemeente Katwijk](https://www.katwijk.nl/)
+- [Gemeente Bergen NH](https://www.bergen-nh.nl/)
+- [Gemeente Uitgeest](https://www.uitgeest.nl/)
+- [Gemeente Castricum](https://www.castricum.nl/)
+- [Gemeente Heiloo](https://www.heiloo.nl/)
+- [Gemeente Medemblik](https://www.medemblik.nl/)
