@@ -1,20 +1,20 @@
-<p align="center"><img src="https://www.ponydesignclub.nl/ope/assets/opengemeenten-logo.svg"></p>
+<p align="center"><img src="https://www.opengemeenten.nl/_Resources/Persistent/27808426fba97bd0102331c01f7c1088451d0a60/opengemeenten.svg"></p>
 
 # OpenGemeenten Iconenset
 
 We onthouden slechts 10% van wat we horen, ongeveer 20% van wat we lezen en maar liefst 80% van wat we zien. Visuele communicatie speelt daarom een steeds grotere rol in het toegankelijk maken van informatie.
 
-Pony Design Club heeft samen met gemeente Veenendaal een iconenset ontwikkeld voor gemeentelijke toptaken websites. Door de iconen te combineren met toptaken vindt een bezoeker sneller en makkelijker de informatie waar hij naar op zoek is.
+OpenGemeenten heeft samen met gemeente Veenendaal een iconenset ontwikkeld voor gemeentelijke toptaken websites. Door de iconen te combineren met toptaken vindt een bezoeker sneller en makkelijker de informatie waar hij naar op zoek is.
 
 De iconenset bestaat uit meer dan 70 iconen en wordt doorlopend aangevuld door andere gemeenten en overheidsinstanties.
 
 ## Overzicht
 
-<img src="https://www.ponydesignclub.nl/ope/assets/ope-iconen-overzicht.png">
+<img src="https://www.opengemeenten.nl/_Resources/Persistent/54cc70527e9b6a905937ae8fdc8fc735109b37f6/OG%20iconenset2020.png" alt="Overzicht iconen uit de opengemeenten set">
 
 ## Mis je een icoon?
 
-1. Stuur een omschrijving van het ontbrekende icoon naar [hello@ponydesignclub.nl](mailto:hello@ponydesignclub.nl)
+1. Stuur een omschrijving van het ontbrekende icoon naar [martijn@opengemeenten.nl](mailto:martijn@opengemeenten.nl)
 2. Je ontvangt een offerte
 3. Na akkoord wordt het icoon ontworpen en toegevoegd aan de set
 
