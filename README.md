@@ -8,9 +8,8 @@ OpenGemeenten heeft samen met gemeente Veenendaal een iconenset ontwikkeld voor 
 
 De iconenset bestaat uit meer dan 70 iconen en wordt doorlopend aangevuld door andere gemeenten en overheidsinstanties.
 
-## Overzicht
-
-<img src="https://www.opengemeenten.nl/_Resources/Persistent/54cc70527e9b6a905937ae8fdc8fc735109b37f6/OG%20iconenset2020.png" alt="Overzicht iconen uit de opengemeenten set">
+Bekijk het volledige overzicht van de iconenset op onze website.
+[Naar iconen overzicht](https://www.opengemeenten.nl/projecten/iconen/overzicht.html)
 
 ## Mis je een icoon?
 
