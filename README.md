@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.opengemeenten.nl/_Resources/Persistent/27808426fba97bd0102331c01f7c1088451d0a60/opengemeenten.svg"></p>
+<p align="center"><img src="https://www.opengemeenten.nl/fileadmin/afbeeldingen/iconenset.png"></p>
 
 # OpenGemeenten Iconenset
 
