@@ -6,10 +6,10 @@ We onthouden slechts 10% van wat we horen, ongeveer 20% van wat we lezen en maar
 
 OpenGemeenten heeft samen met gemeente Veenendaal een iconenset ontwikkeld voor gemeentelijke toptaken websites. Door de iconen te combineren met toptaken vindt een bezoeker sneller en makkelijker de informatie waar hij naar op zoek is.
 
-De iconenset bestaat uit 161 iconen en wordt doorlopend aangevuld door andere gemeenten en overheidsinstanties.
+De iconenset bestaat (op het moment van schrijven) uit 212 iconen en wordt doorlopend aangevuld door andere gemeenten en overheidsinstanties.
 
 Bekijk het volledige overzicht van de iconenset op onze website.
-[Naar iconen overzicht](https://www.opengemeenten.nl/iconen/overzicht.html)
+[Naar iconen overzicht](https://www.gemeenteniconen.nl)
 
 # Naamsvermelding
 
