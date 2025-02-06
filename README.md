@@ -6,14 +6,10 @@ We onthouden slechts 10% van wat we horen, ongeveer 20% van wat we lezen en maar
 
 OpenGemeenten heeft samen met gemeente Veenendaal een iconenset ontwikkeld voor gemeentelijke toptaken websites. Door de iconen te combineren met toptaken vindt een bezoeker sneller en makkelijker de informatie waar hij naar op zoek is.
 
-De iconenset bestaat (op het moment van schrijven) uit 212 iconen en wordt doorlopend aangevuld door andere gemeenten en overheidsinstanties.
+De iconenset bestaat uit 161 iconen en wordt doorlopend aangevuld door andere gemeenten en overheidsinstanties.
 
 Bekijk het volledige overzicht van de iconenset op onze website.
 [Naar iconen overzicht](https://www.gemeenteniconen.nl)
-
-# Naamsvermelding
-
-
 
 ## Mis je een icoon?
 
@@ -21,28 +17,35 @@ Bekijk het volledige overzicht van de iconenset op onze website.
 2. Je ontvangt een offerte
 3. Na akkoord wordt het icoon ontworpen en toegevoegd aan de set
 
-## Dit werk valt onder een CC BY-SA 4.0* licentie
+## Dit werk valt onder de CC0 1.0 UNIVERSEEL* verklaring
 
-**Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal*
+*Creative Commons CC0 publieke domein verklaring*
 
-### Je bent vrij om:
+### Geen auteursrecht
 
-**het werk te delen** — te kopiëren, te verspreiden en door te geven via elk medium of bestandsformaat.
+De persoon die deze akte aan een werk heeft verbonden heeft het werk **toegewezen** aan het publiek domein door
+wereldwijd zijn of haar rechten op het werk onder het auteursrecht, inclusief alle bijbehorende en naburige rechten,
+af te staan, voor zover door de wet is toegestaan.
 
-**het werk te bewerken** — te remixen, te veranderen en afgeleide werken te maken voor alle doeleinden, inclusief commerciële doeleinden.
+Je mag het werk zonder toestemming kopiëren, veranderen, verspreiden en uitvoeren, zelfs voor commerciële doeleinden.
+Zie **Overige Informatie** verderop.
 
-### Onder de volgende voorwaarden:
+### Overige informatie
 
-**Naamsvermelding** — De gebruiker dient de maker van het werk te vermelden, een link naar de licentie te plaatsen en aan te geven of het werk veranderd is. Je mag dat op redelijke wijze doen, maar niet zodanig dat de indruk gewekt wordt dat de licentiegever instemt met je werk of je gebruik van het werk.
+Niemands patent- of merkrechten zijn op enige wijze betroffen door CC0, noch de rechten die andere personen kunnen
+hebben op het werk of op hoe het werk is gepubliceerd, zoals
+[advertentie- of privacyrechten](https://creativecommons.org/publicdomain/zero/1.0/deed.nl#ref-publicity-rights).
 
-**Voorbeeld** — De iconen op deze website zijn gemaakt door [OpenGemeenten](https://www.opengemeenten.nl/). Deze iconenset is vrij te gebruiken en valt onder de [CC BY-SA 4.0-licentie](https://creativecommons.org/licenses/by-sa/4.0/deed.nl).
+Tenzij nadrukkelijk anders is vermeld, geeft de persoon die een werk in verband met deze akte geeft geen garanties over
+het werk, en wijst elke aansprakelijkheid af voor alle toepassingen van het werk, voor zover toegestaan door de
+toepasselijke wetgeving.
 
-**GelijkDelen** — Als je het werk hebt geremixt, veranderd, of op het werk hebt voortgebouwd, moet je het veranderde materiaal verspreiden onder dezelfde licentie als het originele werk.
+Bij gebruik van of verwijzing naar het werk, mag je geen
+[goedkeuring](https://creativecommons.org/publicdomain/zero/1.0/deed.nl#ref-endorsement)van de auteur of rechthebbende
+impliceren.
 
-**Geen aanvullende restricties** — Je mag geen juridische voorwaarden of technologische voorzieningen toepassen die anderen er juridisch in beperken om iets te doen wat de licentie toestaat.
-
-
-[Bekijk de volledige licentie](https://creativecommons.org/licenses/by-sa/4.0/deed.nl)
+[Bekijk de volledige akte](https://creativecommons.org/publicdomain/zero/1.0/deed.nl)
+[See the deed in English](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 
 ## Mede mogelijk gemaakt door
 
