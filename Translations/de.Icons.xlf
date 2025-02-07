@@ -14,7 +14,7 @@
                 <source>Afval</source>
                 <target>Abfall</target>
             </trans-unit>
-            <trans-unit id="AfvalGft">
+            <trans-unit id="AfvalGFT">
                 <source>Afval GFT</source>
                 <target>Bioabfall</target>
             </trans-unit>
@@ -30,7 +30,7 @@
                 <source>Afval ophalen</source>
                 <target>Abholung</target>
             </trans-unit>
-            <trans-unit id="AfvalPmd">
+            <trans-unit id="AfvalPMD">
                 <source>Afval PMD</source>
                 <target>Verpackungsabfall</target>
             </trans-unit>
@@ -42,7 +42,7 @@
                 <source>Afvalbak afvalzak</source>
                 <target>Müllsack</target>
             </trans-unit>
-            <trans-unit id="AfvalbakPmd">
+            <trans-unit id="AfvalbakPMD">
                 <source>Afvalbak PMD</source>
                 <target>Verpackungsmüllbehälter</target>
             </trans-unit>
@@ -618,6 +618,10 @@
                 <source>Rioolheffing</source>
                 <target>Abwassergebühr</target>
             </trans-unit>
+            <trans-unit id="Rioolwerkzaamheden">
+                <source>Rioolwerkzaamheden</source>
+                <target></target>
+            </trans-unit>
             <trans-unit id="RoerendeZaakbelasting">
                 <source>Roerende zaakbelasting</source>
                 <target>Mobiliensteuer</target>
@@ -794,13 +798,53 @@
                 <source>Werkzaamheden</source>
                 <target>Bauarbeiten</target>
             </trans-unit>
+            <trans-unit id="Wijkteam">
+                <source>Wijkteam</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="Winkelen">
+                <source>Winkelen</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="Winkelwagen">
+                <source>Winkelwagen</source>
+                <target></target>
+            </trans-unit>
             <trans-unit id="Wmo">
                 <source>WMO</source>
                 <target>WMO</target>
             </trans-unit>
+            <trans-unit id="Wolf">
+                <source>Wolf</source>
+                <target>Wolf</target>
+            </trans-unit>
+            <trans-unit id="WoningZoeken">
+                <source>Woning zoeken</source>
+                <target></target>
+            </trans-unit>
             <trans-unit id="WozWaarde">
                 <source>WOZ waarde</source>
                 <target>WOZ-Wert</target>
+            </trans-unit>
+            <trans-unit id="ZelfbeheerTegel">
+                <source>Zelfbeheer tegel</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="ZelfstandigWonen">
+                <source>Zelfstandig wonen</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="Zoeken">
+                <source>Zoeken</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="Zwemabonnement">
+                <source>Zwemabonnement</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="Zwemmen">
+                <source>Zwemmen</source>
+                <target></target>
             </trans-unit>
             <trans-unit id="identifier">
                 <source>source</source>
