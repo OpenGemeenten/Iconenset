@@ -184,11 +184,11 @@
       </trans-unit>
       <trans-unit id="ElektrischLaden">
         <source>Elektrisch laden</source>
-        <target state="translated">Electric charging</target>
+        <target state="translated">Electric vehicle charging</target>
       </trans-unit>
       <trans-unit id="ElektrischRijden">
         <source>Elektrisch rijden</source>
-        <target state="translated">Electric driving</target>
+        <target state="translated">Electric vehicle driving</target>
       </trans-unit>
       <trans-unit id="Energietransitie">
         <source>Energietransitie</source>
