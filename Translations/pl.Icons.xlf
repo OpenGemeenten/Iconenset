@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.0">
-  <file original="Icons.xlf" source-language="en" datatype="plaintext" target-language="pl">
+  <file original="Icons.xlf" source-language="nl" datatype="plaintext" target-language="pl">
     <body>
       <trans-unit id="Aanmelden">
         <source>Log in</source>
@@ -252,7 +252,7 @@
       </trans-unit>
       <trans-unit id="GemivaLocatie">
         <source>Gemiva location</source>
-        <target state="needs-translation">Gemiva locatie</target>
+        <target state="needs-translation">Gemiva location</target>
       </trans-unit>
       <trans-unit id="Gezicht">
         <source>Face</source>
@@ -524,7 +524,7 @@
       </trans-unit>
       <trans-unit id="Parkeren">
         <source>Parking</source>
-        <target state="translated">Parking</target>
+        <target state="needs-translation">Parking</target>
       </trans-unit>
       <trans-unit id="ParkerenBedrijven">
         <source>Company parking</source>
@@ -804,7 +804,7 @@
       </trans-unit>
       <trans-unit id="Wmo">
         <source>Social Support Act</source>
-        <target state="needs-translation">WMO</target>
+        <target state="needs-translation">Social Support Act</target>
       </trans-unit>
       <trans-unit id="Wolf">
         <source>Wolf</source>
