@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.0">
-  <file original="Icons.xlf" source-language="en" datatype="plaintext" target-language="de">
+  <file original="Icons.xlf" source-language="nl" datatype="plaintext" target-language="de">
     <body>
       <trans-unit id="Aanmelden">
         <source>Log in</source>
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="Agenda">
         <source>Calendar</source>
-        <target state="needs-translation">Agenda</target>
+        <target state="needs-translation">Calendar</target>
       </trans-unit>
       <trans-unit id="Airborne">
         <source>Airborne</source>
@@ -80,7 +80,7 @@
       </trans-unit>
       <trans-unit id="Auto">
         <source>Car</source>
-        <target state="needs-translation">Auto</target>
+        <target state="needs-translation">Car</target>
       </trans-unit>
       <trans-unit id="Bedrijventerrein">
         <source>Business Park</source>
@@ -136,7 +136,7 @@
       </trans-unit>
       <trans-unit id="Brief">
         <source>Letter</source>
-        <target state="needs-translation">Brief</target>
+        <target state="needs-translation">Letter</target>
       </trans-unit>
       <trans-unit id="Buitengebied">
         <source>Rural area</source>
@@ -184,7 +184,7 @@
       </trans-unit>
       <trans-unit id="ElektrischLaden">
         <source>Electric vehicle charging</source>
-        <target state="needs-translation">Elektrisch laden</target>
+        <target state="needs-translation">Electric vehicle charging</target>
       </trans-unit>
       <trans-unit id="ElektrischRijden">
         <source>Electric vehicle driving</source>
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="F1">
         <source>Formula One</source>
-        <target state="needs-translation">F1</target>
+        <target state="needs-translation">Formula One</target>
       </trans-unit>
       <trans-unit id="Fiets">
         <source>Bicycle</source>
@@ -320,7 +320,7 @@
       </trans-unit>
       <trans-unit id="Informatie">
         <source>Information</source>
-        <target state="translated">Information</target>
+        <target state="needs-translation">Information</target>
       </trans-unit>
       <trans-unit id="InformatieEnBetalen">
         <source>Information and payments</source>
@@ -372,7 +372,7 @@
       </trans-unit>
       <trans-unit id="Leerlingenvervoer">
         <source>Pupil Transport</source>
-        <target state="needs-translation">Leerlingenvervoer</target>
+        <target state="needs-translation">Pupil Transport</target>
       </trans-unit>
       <trans-unit id="LetOp">
         <source>Attention</source>
@@ -380,7 +380,7 @@
       </trans-unit>
       <trans-unit id="Liefdadigheid">
         <source>Charity</source>
-        <target state="translated">Charity</target>
+        <target state="needs-translation">Charity</target>
       </trans-unit>
       <trans-unit id="Locatie">
         <source>Location</source>
@@ -448,7 +448,7 @@
       </trans-unit>
       <trans-unit id="Nieuwsbrief">
         <source>Newsletter</source>
-        <target state="translated">Newsletter</target>
+        <target state="needs-translation">Newsletter</target>
       </trans-unit>
       <trans-unit id="Omgeving">
         <source>Environment</source>
@@ -612,7 +612,7 @@
       </trans-unit>
       <trans-unit id="Rioolwerkzaamheden">
         <source>Sewerage Works</source>
-        <target state="needs-translation">Rioolwerkzaamheden</target>
+        <target state="needs-translation">Sewerage Works</target>
       </trans-unit>
       <trans-unit id="RoerendeZaakbelasting">
         <source>Movable Property Tax</source>
@@ -640,7 +640,7 @@
       </trans-unit>
       <trans-unit id="Sport">
         <source>Sports</source>
-        <target state="needs-translation">Sport</target>
+        <target state="needs-translation">Sports</target>
       </trans-unit>
       <trans-unit id="SportCultureleActiviteit">
         <source>Sports cultural activity</source>
@@ -664,7 +664,7 @@
       </trans-unit>
       <trans-unit id="Strand">
         <source>Beach</source>
-        <target state="needs-translation">Strand</target>
+        <target state="needs-translation">Beach</target>
       </trans-unit>
       <trans-unit id="Subsidie">
         <source>Subsidy</source>
@@ -792,19 +792,19 @@
       </trans-unit>
       <trans-unit id="Wijkteam">
         <source>Neighborhood team</source>
-        <target state="needs-translation">Wijkteam</target>
+        <target state="needs-translation">Neighborhood team</target>
       </trans-unit>
       <trans-unit id="Winkelen">
         <source>Shopping</source>
-        <target state="needs-translation">Winkelen</target>
+        <target state="needs-translation">Shopping</target>
       </trans-unit>
       <trans-unit id="Winkelwagen">
         <source>Shopping cart</source>
-        <target state="needs-translation">Winkelwagen</target>
+        <target state="needs-translation">Shopping cart</target>
       </trans-unit>
       <trans-unit id="Wmo">
         <source>Social Support Act</source>
-        <target state="needs-translation">WMO</target>
+        <target state="needs-translation">Social Support Act</target>
       </trans-unit>
       <trans-unit id="Wolf">
         <source>Wolf</source>
@@ -812,7 +812,7 @@
       </trans-unit>
       <trans-unit id="WoningZoeken">
         <source>Searching for housing</source>
-        <target state="needs-translation">Woning zoeken</target>
+        <target state="needs-translation">Searching for housing</target>
       </trans-unit>
       <trans-unit id="WozWaarde">
         <source>WOZ value</source>
@@ -820,23 +820,23 @@
       </trans-unit>
       <trans-unit id="ZelfbeheerTegel">
         <source>Self-management tile</source>
-        <target state="needs-translation">Zelfbeheer tegel</target>
+        <target state="needs-translation">Self-management tile</target>
       </trans-unit>
       <trans-unit id="ZelfstandigWonen">
         <source>Living independently</source>
-        <target state="needs-translation">Zelfstandig wonen</target>
+        <target state="needs-translation">Living independently</target>
       </trans-unit>
       <trans-unit id="Zoeken">
         <source>Search</source>
-        <target state="needs-translation">Zoeken</target>
+        <target state="needs-translation">Search</target>
       </trans-unit>
       <trans-unit id="Zwemabonnement">
         <source>Swimming subscription</source>
-        <target state="needs-translation">Zwemabonnement</target>
+        <target state="needs-translation">Swimming subscription</target>
       </trans-unit>
       <trans-unit id="Zwemmen">
         <source>Swimming</source>
-        <target state="needs-translation">Zwemmen</target>
+        <target state="needs-translation">Swimming</target>
       </trans-unit>
       <trans-unit id="identifier">
         <source>source</source>
