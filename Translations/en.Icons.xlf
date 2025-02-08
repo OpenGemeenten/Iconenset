@@ -32,7 +32,7 @@
       </trans-unit>
       <trans-unit id="AfvalPMD">
         <source>Afval PMD</source>
-        <target state="translated">Packaging waste</target>
+        <target state="translated">Plastic and packaging waste</target>
       </trans-unit>
       <trans-unit id="AfvalScheiden">
         <source>Afval scheiden</source>
@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit id="AfvalbakPMD">
         <source>Afvalbak PMD</source>
-        <target state="translated">PMD waste bin</target>
+        <target state="translated">Plastic and packaging waste bin</target>
       </trans-unit>
       <trans-unit id="Afvalcontainer">
         <source>Afvalcontainer</source>
@@ -56,7 +56,7 @@
       </trans-unit>
       <trans-unit id="Afvalcontainerpas">
         <source>Afvalcontainerpas</source>
-        <target state="translated">Waste container pass</target>
+        <target state="translated">Waste container pass card</target>
       </trans-unit>
       <trans-unit id="Afvalkalender">
         <source>Afvalkalender</source>
@@ -72,7 +72,7 @@
       </trans-unit>
       <trans-unit id="Airborne">
         <source>Airborne</source>
-        <target state="translated">In the air</target>
+        <target state="translated">Airborne</target>
       </trans-unit>
       <trans-unit id="Attentie">
         <source>Attentie</source>
@@ -120,7 +120,7 @@
       </trans-unit>
       <trans-unit id="BladerenOpruimen">
         <source>Bladeren opruimen</source>
-        <target state="translated">Leaf clearance</target>
+        <target state="translated">Leaf collection</target>
       </trans-unit>
       <trans-unit id="BouwenEnVerbouwen">
         <source>Bouwen en verbouwen</source>
