@@ -3,71 +3,71 @@
     <file original="Icons.xlf" source-language="en" target-language="nl" datatype="plaintext">
         <body>
             <trans-unit id="Aanmelden">
-                <source>Aanmelden</source>
+                <source>Log in</source>
                 <target>Aanmelden</target>
             </trans-unit>
             <trans-unit id="Actueel">
-                <source>Actueel</source>
+                <source>Current</source>
                 <target>Actueel</target>
             </trans-unit>
             <trans-unit id="Afval">
-                <source>Afval</source>
+                <source>Waste</source>
                 <target>Afval</target>
             </trans-unit>
             <trans-unit id="AfvalGFT">
-                <source>Afval GFT</source>
+                <source>Organic waste</source>
                 <target>Afval GFT</target>
             </trans-unit>
             <trans-unit id="AfvalGlascontainer">
-                <source>Afval glascontainer</source>
+                <source>Glass container</source>
                 <target>Afval glascontainer</target>
             </trans-unit>
             <trans-unit id="AfvalGroenbak">
-                <source>Afval groenbak</source>
+                <source>Green bin</source>
                 <target>Afval groenbak</target>
             </trans-unit>
             <trans-unit id="AfvalOphalen">
-                <source>Afval ophalen</source>
+                <source>Waste collection</source>
                 <target>Afval ophalen</target>
             </trans-unit>
             <trans-unit id="AfvalPMD">
-                <source>Afval PMD</source>
+                <source>Plastic and packaging waste</source>
                 <target>Afval PMD</target>
             </trans-unit>
             <trans-unit id="AfvalScheiden">
-                <source>Afval scheiden</source>
+                <source>Waste separation</source>
                 <target>Afval scheiden</target>
             </trans-unit>
             <trans-unit id="AfvalbakAfvalzak">
-                <source>Afvalbak afvalzak</source>
+                <source>Waste bin trash bag</source>
                 <target>Afvalbak afvalzak</target>
             </trans-unit>
             <trans-unit id="AfvalbakPMD">
-                <source>Afvalbak PMD</source>
+                <source>Plastic and packaging waste bin</source>
                 <target>Afvalbak PMD</target>
             </trans-unit>
             <trans-unit id="Afvalcontainer">
-                <source>Afvalcontainer</source>
+                <source>Waste container</source>
                 <target>Afvalcontainer</target>
             </trans-unit>
             <trans-unit id="AfvalcontainerAfvalzak">
-                <source>Afvalcontainer afvalzak</source>
+                <source>Waste container trash bag</source>
                 <target>Afvalcontainer afvalzak</target>
             </trans-unit>
             <trans-unit id="Afvalcontainerpas">
-                <source>Afvalcontainerpas</source>
+                <source>Waste container pass card</source>
                 <target>Afvalcontainerpas</target>
             </trans-unit>
             <trans-unit id="Afvalkalender">
-                <source>Afvalkalender</source>
+                <source>Waste Calendar</source>
                 <target>Afvalkalender</target>
             </trans-unit>
             <trans-unit id="Afvalzak">
-                <source>Afvalzak</source>
+                <source>Garbage Bag</source>
                 <target>Afvalzak</target>
             </trans-unit>
             <trans-unit id="Agenda">
-                <source>Agenda</source>
+                <source>Calendar</source>
                 <target>Agenda</target>
             </trans-unit>
             <trans-unit id="Airborne">
@@ -75,75 +75,75 @@
                 <target>Airborne</target>
             </trans-unit>
             <trans-unit id="Attentie">
-                <source>Attentie</source>
+                <source>Attention</source>
                 <target>Attentie</target>
             </trans-unit>
             <trans-unit id="Auto">
-                <source>Auto</source>
+                <source>Car</source>
                 <target>Auto</target>
             </trans-unit>
             <trans-unit id="Bedrijventerrein">
-                <source>Bedrijventerrein</source>
+                <source>Business Park</source>
                 <target>Bedrijventerrein</target>
             </trans-unit>
             <trans-unit id="Begraafplaats">
-                <source>Begraafplaats</source>
+                <source>Cemetery</source>
                 <target>Begraafplaats</target>
             </trans-unit>
             <trans-unit id="Begroting">
-                <source>Begroting</source>
+                <source>Budget</source>
                 <target>Begroting</target>
             </trans-unit>
             <trans-unit id="Belastingen">
-                <source>Belastingen</source>
+                <source>Taxes</source>
                 <target>Belastingen</target>
             </trans-unit>
             <trans-unit id="BetaaldatumsUitkering">
-                <source>Betaaldatums uitkering</source>
+                <source>Welfare Payment Dates</source>
                 <target>Betaaldatums uitkering</target>
             </trans-unit>
             <trans-unit id="Bevolking">
-                <source>Bevolking</source>
+                <source>Population</source>
                 <target>Bevolking</target>
             </trans-unit>
             <trans-unit id="Bevrijding">
-                <source>Bevrijding</source>
+                <source>Liberation</source>
                 <target>Bevrijding</target>
             </trans-unit>
             <trans-unit id="BezwaarEnBeroep">
-                <source>Bezwaar en beroep</source>
+                <source>Objection and Appeal</source>
                 <target>Bezwaar en beroep</target>
             </trans-unit>
             <trans-unit id="Bijstandsuitkering">
-                <source>Bijstandsuitkering</source>
+                <source>Social assistance benefit</source>
                 <target>Bijstandsuitkering</target>
             </trans-unit>
             <trans-unit id="BladerenOpruimen">
-                <source>Bladeren opruimen</source>
+                <source>Leaf collection</source>
                 <target>Bladeren opruimen</target>
             </trans-unit>
             <trans-unit id="BouwenEnVerbouwen">
-                <source>Bouwen en verbouwen</source>
+                <source>Construction and renovation</source>
                 <target>Bouwen en verbouwen</target>
             </trans-unit>
             <trans-unit id="Bouwprojecten">
-                <source>Bouwprojecten</source>
+                <source>Construction projects</source>
                 <target>Bouwprojecten</target>
             </trans-unit>
             <trans-unit id="Brandgevaar">
-                <source>Brandgevaar</source>
+                <source>Fire hazard</source>
                 <target>Brandgevaar</target>
             </trans-unit>
             <trans-unit id="Brief">
-                <source>Brief</source>
+                <source>Letter</source>
                 <target>Brief</target>
             </trans-unit>
             <trans-unit id="Buitengebied">
-                <source>Buitengebied</source>
+                <source>Rural area</source>
                 <target>Buitengebied</target>
             </trans-unit>
             <trans-unit id="Burgemeester">
-                <source>Burgemeester</source>
+                <source>Mayor</source>
                 <target>Burgemeester</target>
             </trans-unit>
             <trans-unit id="Chat">
@@ -155,615 +155,607 @@
                 <target>Computer</target>
             </trans-unit>
             <trans-unit id="Computerregeling">
-                <source>Computerregeling</source>
+                <source>Computer scheme</source>
                 <target>Computerregeling</target>
             </trans-unit>
             <trans-unit id="ContactGemeente">
-                <source>Contact gemeente</source>
+                <source>Contact municipality</source>
                 <target>Contact gemeente</target>
             </trans-unit>
             <trans-unit id="Documenten">
-                <source>Documenten</source>
+                <source>Documents</source>
                 <target>Documenten</target>
             </trans-unit>
             <trans-unit id="Duurzaamheid">
-                <source>Duurzaamheid</source>
+                <source>Sustainability</source>
                 <target>Duurzaamheid</target>
             </trans-unit>
             <trans-unit id="EconomieWerkInkomen">
-                <source>Economie werk inkomen</source>
+                <source>Economy work income</source>
                 <target>Economie werk inkomen</target>
             </trans-unit>
             <trans-unit id="Eenzaamheid">
-                <source>Eenzaamheid</source>
+                <source>Loneliness</source>
                 <target>Eenzaamheid</target>
             </trans-unit>
             <trans-unit id="Eikenprocessie">
-                <source>Eikenprocessie</source>
+                <source>Oak processionary</source>
                 <target>Eikenprocessie</target>
             </trans-unit>
             <trans-unit id="ElektrischLaden">
-                <source>Elektrisch laden</source>
+                <source>Electric vehicle charging</source>
                 <target>Elektrisch laden</target>
             </trans-unit>
             <trans-unit id="ElektrischRijden">
-                <source>Elektrisch rijden</source>
+                <source>Electric vehicle driving</source>
                 <target>Elektrisch rijden</target>
             </trans-unit>
             <trans-unit id="Energietransitie">
-                <source>Energietransitie</source>
+                <source>Energy transition</source>
                 <target>Energietransitie</target>
             </trans-unit>
             <trans-unit id="Enquete">
-                <source>Enquete</source>
+                <source>Survey</source>
                 <target>Enquete</target>
             </trans-unit>
             <trans-unit id="Erfpacht">
-                <source>Erfpacht</source>
+                <source>Ground lease</source>
                 <target>Erfpacht</target>
             </trans-unit>
             <trans-unit id="Evenementen">
-                <source>Evenementen</source>
+                <source>Events</source>
                 <target>Evenementen</target>
             </trans-unit>
             <trans-unit id="F1">
-                <source>F1</source>
+                <source>Formula One</source>
                 <target>F1</target>
             </trans-unit>
             <trans-unit id="Fiets">
-                <source>Fiets</source>
+                <source>Bicycle</source>
                 <target>Fiets</target>
             </trans-unit>
             <trans-unit id="Geboorte">
-                <source>Geboorte</source>
+                <source>Birth</source>
                 <target>Geboorte</target>
             </trans-unit>
             <trans-unit id="Gebruiker">
-                <source>Gebruiker</source>
+                <source>User</source>
                 <target>Gebruiker</target>
             </trans-unit>
             <trans-unit id="GebruikerCentraal">
-                <source>Gebruiker centraal</source>
+                <source>User-centered</source>
                 <target>Gebruiker centraal</target>
             </trans-unit>
             <trans-unit id="GebruikerIngelogd">
-                <source>Gebruiker ingelogd</source>
+                <source>User logged in</source>
                 <target>Gebruiker ingelogd</target>
             </trans-unit>
             <trans-unit id="Gebruikersvraag">
-                <source>Gebruikersvraag</source>
+                <source>User query</source>
                 <target>Gebruikersvraag</target>
             </trans-unit>
             <trans-unit id="Gegevenswoordenboek">
-                <source>Gegevenswoordenboek</source>
+                <source>Data dictionary</source>
                 <target>Gegevenswoordenboek</target>
             </trans-unit>
             <trans-unit id="Geluid">
-                <source>Geluid</source>
+                <source>Sound</source>
                 <target>Geluid</target>
             </trans-unit>
             <trans-unit id="Gemeenteraad">
-                <source>Gemeenteraad</source>
+                <source>City council</source>
                 <target>Gemeenteraad</target>
             </trans-unit>
             <trans-unit id="Gemeenteraadsvergadering">
-                <source>Gemeenteraadsvergadering</source>
+                <source>City council meeting</source>
                 <target>Gemeenteraadsvergadering</target>
             </trans-unit>
             <trans-unit id="GemivaLocatie">
-                <source>Gemiva locatie</source>
+                <source>Gemiva location</source>
                 <target>Gemiva locatie</target>
             </trans-unit>
             <trans-unit id="Gezicht">
-                <source>Gezicht</source>
+                <source>Face</source>
                 <target>Gezicht</target>
             </trans-unit>
             <trans-unit id="Gladheid">
-                <source>Gladheid</source>
+                <source>Icing</source>
                 <target>Gladheid</target>
             </trans-unit>
             <trans-unit id="Grafiek">
-                <source>Grafiek</source>
+                <source>Chart</source>
                 <target>Grafiek</target>
             </trans-unit>
             <trans-unit id="Grofvuil">
-                <source>Grofvuil</source>
+                <source>Bulk waste</source>
                 <target>Grofvuil</target>
             </trans-unit>
             <trans-unit id="Herdenking">
-                <source>Herdenking</source>
+                <source>Commemoration</source>
                 <target>Herdenking</target>
             </trans-unit>
             <trans-unit id="Hondenbelasting">
-                <source>Hondenbelasting</source>
+                <source>Dog tax</source>
                 <target>Hondenbelasting</target>
             </trans-unit>
             <trans-unit id="Hoogbouw">
-                <source>Hoogbouw</source>
+                <source>High-rise building</source>
                 <target>Hoogbouw</target>
             </trans-unit>
             <trans-unit id="Horeca">
-                <source>Horeca</source>
+                <source>Hospitality</source>
                 <target>Horeca</target>
             </trans-unit>
             <trans-unit id="Horecavergunningen">
-                <source>Horecavergunningen</source>
+                <source>Hospitality permits</source>
                 <target>Horecavergunningen</target>
             </trans-unit>
             <trans-unit id="Huis">
-                <source>Huis</source>
+                <source>House</source>
                 <target>Huis</target>
             </trans-unit>
             <trans-unit id="HuisEnOmgeving">
-                <source>Huis en omgeving</source>
+                <source>House and surroundings</source>
                 <target>Huis en omgeving</target>
             </trans-unit>
             <trans-unit id="HuiselijkGeweld">
-                <source>Huiselijk geweld</source>
+                <source>Domestic violence</source>
                 <target>Huiselijk geweld</target>
             </trans-unit>
             <trans-unit id="HulpHuishouden">
-                <source>Hulp huishouden</source>
+                <source>Household help</source>
                 <target>Hulp huishouden</target>
             </trans-unit>
             <trans-unit id="HulpmiddelenVinden">
-                <source>Hulpmiddelen vinden</source>
+                <source>Finding aids</source>
                 <target>Hulpmiddelen vinden</target>
             </trans-unit>
             <trans-unit id="Idkaart">
-                <source>ID-kaart</source>
+                <source>ID card</source>
                 <target>ID-kaart</target>
             </trans-unit>
             <trans-unit id="InEnOmUwHuis">
-                <source>In en om uw huis</source>
+                <source>In and around your house</source>
                 <target>In en om uw huis</target>
             </trans-unit>
             <trans-unit id="Informatie">
-                <source>Informatie</source>
+                <source>Information</source>
                 <target>Informatie</target>
             </trans-unit>
             <trans-unit id="InformatieEnBetalen">
-                <source>Informatie en betalen</source>
+                <source>Information and payments</source>
                 <target>Informatie en betalen</target>
             </trans-unit>
             <trans-unit id="Inkomen">
-                <source>Inkomen</source>
+                <source>Income</source>
                 <target>Inkomen</target>
             </trans-unit>
             <trans-unit id="Inspraak">
-                <source>Inspraak</source>
+                <source>Participation</source>
                 <target>Inspraak</target>
             </trans-unit>
             <trans-unit id="Jeugd">
-                <source>Jeugd</source>
+                <source>Youth</source>
                 <target>Jeugd</target>
             </trans-unit>
             <trans-unit id="Kennis">
-                <source>Kennis</source>
+                <source>Knowledge</source>
                 <target>Kennis</target>
             </trans-unit>
             <trans-unit id="Kerstbomen">
-                <source>Kerstbomen</source>
+                <source>Christmas Trees</source>
                 <target>Kerstbomen</target>
             </trans-unit>
             <trans-unit id="KindEnFamilie">
-                <source>Kind en familie</source>
+                <source>Child and Family</source>
                 <target>Kind en familie</target>
             </trans-unit>
             <trans-unit id="Klacht">
-                <source>Klacht</source>
+                <source>Complaint</source>
                 <target>Klacht</target>
             </trans-unit>
             <trans-unit id="Koningsdag">
-                <source>Koningsdag</source>
+                <source>King's Day</source>
                 <target>Koningsdag</target>
             </trans-unit>
             <trans-unit id="KopenEnHuren">
-                <source>Kopen en huren</source>
+                <source>King's Day</source>
                 <target>Kopen en huren</target>
             </trans-unit>
             <trans-unit id="KopenEnVerkopen">
-                <source>Kopen en verkopen</source>
+                <source>Buying and Selling</source>
                 <target>Kopen en verkopen</target>
             </trans-unit>
             <trans-unit id="LaadStation">
-                <source>Laad station</source>
+                <source>Charging Station</source>
                 <target>Laad station</target>
             </trans-unit>
             <trans-unit id="Leerlingenvervoer">
-                <source>Leerlingenvervoer</source>
+                <source>Pupil Transport</source>
                 <target>Leerlingenvervoer</target>
             </trans-unit>
             <trans-unit id="LetOp">
-                <source>Let op</source>
+                <source>Attention</source>
                 <target>Let op</target>
             </trans-unit>
             <trans-unit id="Liefdadigheid">
-                <source>Liefdadigheid</source>
+                <source>Charity</source>
                 <target>Liefdadigheid</target>
             </trans-unit>
             <trans-unit id="Locatie">
-                <source>Locatie</source>
+                <source>Location</source>
                 <target>Locatie</target>
             </trans-unit>
             <trans-unit id="Manege">
-                <source>Manege</source>
+                <source>Horse Riding School</source>
                 <target>Manege</target>
             </trans-unit>
             <trans-unit id="Marktgelden">
-                <source>Marktgelden</source>
+                <source>Market Fees</source>
                 <target>Marktgelden</target>
             </trans-unit>
             <trans-unit id="Meeuwenoverlast">
-                <source>Meeuwenoverlast</source>
+                <source>Seagull nuisance</source>
                 <target>Meeuwenoverlast</target>
             </trans-unit>
             <trans-unit id="Melding">
-                <source>Melding</source>
+                <source>Report</source>
                 <target>Melding</target>
             </trans-unit>
             <trans-unit id="MeldingOmgevallenBoom">
-                <source>Melding omgevallen boom</source>
+                <source>Report fallen tree</source>
                 <target>Melding omgevallen boom</target>
             </trans-unit>
             <trans-unit id="MeldingOpenbareRuimte">
-                <source>Melding openbare ruimte</source>
+                <source>Public space report</source>
                 <target>Melding openbare ruimte</target>
             </trans-unit>
             <trans-unit id="MeldingStraatverlichting">
-                <source>Melding straatverlichting</source>
+                <source>Street lighting report</source>
                 <target>Melding straatverlichting</target>
             </trans-unit>
             <trans-unit id="Milieuzone">
-                <source>Milieuzone</source>
+                <source>Low emission zone</source>
                 <target>Milieuzone</target>
             </trans-unit>
             <trans-unit id="Mobiliteit">
-                <source>Mobiliteit</source>
+                <source>Mobility</source>
                 <target>Mobiliteit</target>
             </trans-unit>
             <trans-unit id="MonitorAgrofood">
-                <source>Monitor agrofood</source>
+                <source>Agriculture food monitor</source>
                 <target>Monitor agrofood</target>
             </trans-unit>
             <trans-unit id="MonitorDuurzaamheid">
-                <source>Monitor duurzaamheid</source>
+                <source>Sustainability monitor</source>
                 <target>Monitor duurzaamheid</target>
             </trans-unit>
             <trans-unit id="MonitorSociaal">
-                <source>Monitor sociaal</source>
+                <source>Social monitor</source>
                 <target>Monitor sociaal</target>
             </trans-unit>
             <trans-unit id="MonitorVirus">
-                <source>Monitor virus</source>
+                <source>Virus monitor</source>
                 <target>Monitor virus</target>
             </trans-unit>
             <trans-unit id="MonitorWoningmarkt">
-                <source>Monitor woningmarkt</source>
+                <source>Housing market monitor</source>
                 <target>Monitor woningmarkt</target>
             </trans-unit>
             <trans-unit id="NatuurLandschap">
-                <source>Natuur landschap</source>
+                <source>Nature landscape</source>
                 <target>Natuur landschap</target>
             </trans-unit>
             <trans-unit id="Nieuwsbrief">
-                <source>Nieuwsbrief</source>
+                <source>Newsletter</source>
                 <target>Nieuwsbrief</target>
             </trans-unit>
             <trans-unit id="Omgeving">
-                <source>Omgeving</source>
+                <source>Environment</source>
                 <target>Omgeving</target>
             </trans-unit>
             <trans-unit id="Omgevingsvergunning">
-                <source>Omgevingsvergunning</source>
+                <source>Environmental permit</source>
                 <target>Omgevingsvergunning</target>
             </trans-unit>
             <trans-unit id="Omgevingsvisie">
-                <source>Omgevingsvisie</source>
+                <source>Environmental vision</source>
                 <target>Omgevingsvisie</target>
             </trans-unit>
             <trans-unit id="OmgevingsvisieDocument">
-                <source>Omgevingsvisie document</source>
+                <source>Environmental vision document</source>
                 <target>Omgevingsvisie document</target>
             </trans-unit>
             <trans-unit id="Onderhoud">
-                <source>Onderhoud</source>
+                <source>Maintenance</source>
                 <target>Onderhoud</target>
             </trans-unit>
             <trans-unit id="Ondernemen">
-                <source>Ondernemen</source>
+                <source>Entrepreneurship</source>
                 <target>Ondernemen</target>
             </trans-unit>
             <trans-unit id="Onderscheidingen">
-                <source>Onderscheidingen</source>
+                <source>Awards</source>
                 <target>Onderscheidingen</target>
             </trans-unit>
             <trans-unit id="Onderwijs">
-                <source>Onderwijs</source>
+                <source>Education</source>
                 <target>Onderwijs</target>
             </trans-unit>
             <trans-unit id="OntheffingMilieuzone">
-                <source>Ontheffing milieuzone</source>
+                <source>Exemption from low emission zone</source>
                 <target>Ontheffing milieuzone</target>
             </trans-unit>
             <trans-unit id="Openingstijden">
-                <source>Openingstijden</source>
+                <source>Opening hours</source>
                 <target>Openingstijden</target>
             </trans-unit>
             <trans-unit id="OpeningstijdenWinkels">
-                <source>Openingstijden winkels</source>
+                <source>Shop opening hours</source>
                 <target>Openingstijden winkels</target>
             </trans-unit>
             <trans-unit id="OverDeGemeente">
-                <source>Over de gemeente</source>
+                <source>About the municipality</source>
                 <target>Over de gemeente</target>
             </trans-unit>
             <trans-unit id="OverDeStad">
-                <source>Over de stad</source>
+                <source>About the city</source>
                 <target>Over de stad</target>
             </trans-unit>
             <trans-unit id="Overlijden">
-                <source>Overlijden</source>
+                <source>Death</source>
                 <target>Overlijden</target>
             </trans-unit>
             <trans-unit id="Parkeerkosten">
-                <source>Parkeerkosten</source>
+                <source>Parking fees</source>
                 <target>Parkeerkosten</target>
             </trans-unit>
             <trans-unit id="Parkeerplattegrond">
-                <source>Parkeerplattegrond</source>
+                <source>Parking map</source>
                 <target>Parkeerplattegrond</target>
             </trans-unit>
             <trans-unit id="Parkeervergunning">
-                <source>Parkeervergunning</source>
+                <source>Parking permit</source>
                 <target>Parkeervergunning</target>
             </trans-unit>
             <trans-unit id="ParkeervoorzieningGehandicapten">
-                <source>Parkeervoorziening gehandicapten</source>
+                <source>Parking for disabled</source>
                 <target>Parkeervoorziening gehandicapten</target>
             </trans-unit>
             <trans-unit id="Parkeren">
-                <source>Parkeren</source>
+                <source>Parking</source>
                 <target>Parkeren</target>
             </trans-unit>
             <trans-unit id="ParkerenBedrijven">
-                <source>Parkeren bedrijven</source>
+                <source>Company parking</source>
                 <target>Parkeren bedrijven</target>
             </trans-unit>
             <trans-unit id="ParticipatieCampagne">
-                <source>Participatie campagne</source>
+                <source>Participation campaign</source>
                 <target>Participatie campagne</target>
             </trans-unit>
             <trans-unit id="ParticipatieChecklist">
-                <source>Participatie checklist</source>
+                <source>Participation checklist</source>
                 <target>Participatie checklist</target>
             </trans-unit>
             <trans-unit id="ParticipatieLike">
-                <source>Participatie like</source>
+                <source>Participation like</source>
                 <target>Participatie like</target>
             </trans-unit>
             <trans-unit id="ParticipatiePitch">
-                <source>Participatie pitch</source>
+                <source>Participation pitch</source>
                 <target>Participatie pitch</target>
             </trans-unit>
             <trans-unit id="ParticipatiePlan">
-                <source>Participatie plan</source>
+                <source>Participation plan</source>
                 <target>Participatie plan</target>
             </trans-unit>
             <trans-unit id="ParticipatieUitvoering">
-                <source>Participatie uitvoering</source>
+                <source>Implementation Participation</source>
                 <target>Participatie uitvoering</target>
             </trans-unit>
             <trans-unit id="Paspoort">
-                <source>Paspoort</source>
+                <source>Passport</source>
                 <target>Paspoort</target>
             </trans-unit>
-            <trans-unit id="PaspoortBelgie">
-                <source>Paspoort belgie</source>
-                <target>Paspoort belgie</target>
-            </trans-unit>
             <trans-unit id="PaspoortIdkaartGecombineerd">
-                <source>Paspoort ID-kaart gecombineerd</source>
+                <source>Passport and ID card combined</source>
                 <target>Paspoort ID-kaart gecombineerd</target>
             </trans-unit>
-            <trans-unit id="PaspoortIdkaartGecombineerdBelgie">
-                <source>Paspoort ID-kaart gecombineerd belgie</source>
-                <target>Paspoort ID-kaart gecombineerd belgie</target>
-            </trans-unit>
             <trans-unit id="PaspoortIdkaartGecombineerdInternationaal">
-                <source>Paspoort ID-kaart gecombineerd internationaal</source>
+                <source>Passport and ID card combined international</source>
                 <target>Paspoort ID-kaart gecombineerd internationaal</target>
             </trans-unit>
             <trans-unit id="PaspoortInternationaal">
-                <source>Paspoort internationaal</source>
+                <source>International passport</source>
                 <target>Paspoort internationaal</target>
             </trans-unit>
             <trans-unit id="Politiek">
-                <source>Politiek</source>
+                <source>Politics</source>
                 <target>Politiek</target>
             </trans-unit>
             <trans-unit id="Presentatie">
-                <source>Presentatie</source>
+                <source>Presentation</source>
                 <target>Presentatie</target>
             </trans-unit>
             <trans-unit id="Prijskaartje">
-                <source>Prijskaartje</source>
+                <source>Price Tag</source>
                 <target>Prijskaartje</target>
             </trans-unit>
             <trans-unit id="RaadEnCollege">
-                <source>Raad en college</source>
+                <source>Council and board</source>
                 <target>Raad en college</target>
             </trans-unit>
             <trans-unit id="Reclame">
-                <source>Reclame</source>
+                <source>Advertisement</source>
                 <target>Reclame</target>
             </trans-unit>
             <trans-unit id="Reclamebelasting">
-                <source>Reclamebelasting</source>
+                <source>Advertising Tax</source>
                 <target>Reclamebelasting</target>
             </trans-unit>
             <trans-unit id="Recreatie">
-                <source>Recreatie</source>
+                <source>Recreation</source>
                 <target>Recreatie</target>
             </trans-unit>
             <trans-unit id="RegelingLaagInkomen">
-                <source>Regeling laag inkomen</source>
+                <source>Low Income Scheme</source>
                 <target>Regeling laag inkomen</target>
             </trans-unit>
             <trans-unit id="Rijbewijs">
-                <source>Rijbewijs</source>
+                <source>Driver's License</source>
                 <target>Rijbewijs</target>
             </trans-unit>
             <trans-unit id="Rioolheffing">
-                <source>Rioolheffing</source>
+                <source>Sewerage Levy</source>
                 <target>Rioolheffing</target>
             </trans-unit>
             <trans-unit id="Rioolwerkzaamheden">
-                <source>Rioolwerkzaamheden</source>
+                <source>Sewerage Works</source>
                 <target>Rioolwerkzaamheden</target>
             </trans-unit>
             <trans-unit id="RoerendeZaakbelasting">
-                <source>Roerende zaakbelasting</source>
+                <source>Movable Property Tax</source>
                 <target>Roerende zaakbelasting</target>
             </trans-unit>
             <trans-unit id="Rolstoel">
-                <source>Rolstoel</source>
+                <source>Wheelchair</source>
                 <target>Rolstoel</target>
             </trans-unit>
             <trans-unit id="Schoolkostenregeling">
-                <source>Schoolkostenregeling</source>
+                <source>School Fees Scheme</source>
                 <target>Schoolkostenregeling</target>
             </trans-unit>
             <trans-unit id="Sinterklaas">
-                <source>Sinterklaas</source>
+                <source>Saint Nicholas</source>
                 <target>Sinterklaas</target>
             </trans-unit>
             <trans-unit id="SociaalZorgWelzijn">
-                <source>Sociaal zorg welzijn</source>
+                <source>Social Care and Welfare</source>
                 <target>Sociaal zorg welzijn</target>
             </trans-unit>
             <trans-unit id="Speeltuin">
-                <source>Speeltuin</source>
+                <source>Playground</source>
                 <target>Speeltuin</target>
             </trans-unit>
             <trans-unit id="Sport">
-                <source>Sport</source>
+                <source>Sports</source>
                 <target>Sport</target>
             </trans-unit>
             <trans-unit id="SportCultureleActiviteit">
-                <source>Sport culturele activiteit</source>
+                <source>Sports cultural activity</source>
                 <target>Sport culturele activiteit</target>
             </trans-unit>
             <trans-unit id="SportkledingMuziekinstrumenten">
-                <source>Sportkleding muziekinstrumenten</source>
+                <source>Sportswear musical instruments</source>
                 <target>Sportkleding muziekinstrumenten</target>
             </trans-unit>
             <trans-unit id="StationSneltrein">
-                <source>Station sneltrein</source>
+                <source>Station express train</source>
                 <target>Station sneltrein</target>
             </trans-unit>
             <trans-unit id="StationStoptrein">
-                <source>Station stoptrein</source>
+                <source>Station local train</source>
                 <target>Station stoptrein</target>
             </trans-unit>
             <trans-unit id="Stookverbod">
-                <source>Stookverbod</source>
+                <source>Burning prohibition</source>
                 <target>Stookverbod</target>
             </trans-unit>
             <trans-unit id="Strand">
-                <source>Strand</source>
+                <source>Beach</source>
                 <target>Strand</target>
             </trans-unit>
             <trans-unit id="Subsidie">
-                <source>Subsidie</source>
+                <source>Subsidy</source>
                 <target>Subsidie</target>
             </trans-unit>
             <trans-unit id="TemperatuurMelding">
-                <source>Temperatuur melding</source>
+                <source>Temperature alert</source>
                 <target>Temperatuur melding</target>
             </trans-unit>
             <trans-unit id="Thuiswerken">
-                <source>Thuiswerken</source>
+                <source>Remote work</source>
                 <target>Thuiswerken</target>
             </trans-unit>
             <trans-unit id="Toegankelijkheid">
-                <source>Toegankelijkheid</source>
+                <source>Accessibility</source>
                 <target>Toegankelijkheid</target>
             </trans-unit>
             <trans-unit id="Toeslag">
-                <source>Toeslag</source>
+                <source>Surcharge</source>
                 <target>Toeslag</target>
             </trans-unit>
             <trans-unit id="TrouwenEnGeregistreerdPartnerschap">
-                <source>Trouwen en geregistreerd partnerschap</source>
+                <source>Marriage and registered partnership</source>
                 <target>Trouwen en geregistreerd partnerschap</target>
             </trans-unit>
             <trans-unit id="Tuinbouw">
-                <source>Tuinbouw</source>
+                <source>Horticulture</source>
                 <target>Tuinbouw</target>
             </trans-unit>
             <trans-unit id="Uittreksel">
-                <source>Uittreksel</source>
+                <source>Extract</source>
                 <target>Uittreksel</target>
             </trans-unit>
             <trans-unit id="UwGemeente">
-                <source>Uw gemeente</source>
+                <source>Your municipality</source>
                 <target>Uw gemeente</target>
             </trans-unit>
             <trans-unit id="UwWijk">
-                <source>Uw wijk</source>
+                <source>Your district</source>
                 <target>Uw wijk</target>
             </trans-unit>
             <trans-unit id="Vacatures">
-                <source>Vacatures</source>
+                <source>Vacancies</source>
                 <target>Vacatures</target>
             </trans-unit>
             <trans-unit id="Vaccinatie">
-                <source>Vaccinatie</source>
+                <source>Vaccination</source>
                 <target>Vaccinatie</target>
             </trans-unit>
             <trans-unit id="Veerboot">
-                <source>Veerboot</source>
+                <source>Ferry</source>
                 <target>Veerboot</target>
             </trans-unit>
             <trans-unit id="VeiligeWijk">
-                <source>Veilige wijk</source>
+                <source>Safe district</source>
                 <target>Veilige wijk</target>
             </trans-unit>
             <trans-unit id="Vergaderen">
-                <source>Vergaderen</source>
+                <source>Meetings</source>
                 <target>Vergaderen</target>
             </trans-unit>
             <trans-unit id="VergaderenDigitaal">
-                <source>Vergaderen digitaal</source>
+                <source>Digital meetings</source>
                 <target>Vergaderen digitaal</target>
             </trans-unit>
             <trans-unit id="VergoedingEnergiekosten">
-                <source>Vergoeding energiekosten</source>
+                <source>Energy cost compensation</source>
                 <target>Vergoeding energiekosten</target>
             </trans-unit>
             <trans-unit id="VergunningAlgemeen">
-                <source>Vergunning algemeen</source>
+                <source>General permit</source>
                 <target>Vergunning algemeen</target>
             </trans-unit>
             <trans-unit id="Verhuizen">
-                <source>Verhuizen</source>
+                <source>Moving</source>
                 <target>Verhuizen</target>
             </trans-unit>
             <trans-unit id="Verkeerslicht">
-                <source>Verkeerslicht</source>
+                <source>Traffic light</source>
                 <target>Verkeerslicht</target>
             </trans-unit>
             <trans-unit id="Verkiezingen">
-                <source>Verkiezingen</source>
+                <source>Elections</source>
                 <target>Verkiezingen</target>
             </trans-unit>
             <trans-unit id="Verslaving">
-                <source>Verslaving</source>
+                <source>Addiction</source>
                 <target>Verslaving</target>
             </trans-unit>
             <trans-unit id="Vervoersvoorziening">
-                <source>Vervoersvoorziening</source>
+                <source>Transport facility</source>
                 <target>Vervoersvoorziening</target>
             </trans-unit>
             <trans-unit id="Virus">
@@ -771,47 +763,47 @@
                 <target>Virus</target>
             </trans-unit>
             <trans-unit id="Vlag">
-                <source>Vlag</source>
+                <source>Flag</source>
                 <target>Vlag</target>
             </trans-unit>
             <trans-unit id="VluchtelingenOpvang">
-                <source>Vluchtelingen opvang</source>
+                <source>Refugee shelter</source>
                 <target>Vluchtelingen opvang</target>
             </trans-unit>
             <trans-unit id="Voeding">
-                <source>Voeding</source>
+                <source>Nutrition</source>
                 <target>Voeding</target>
             </trans-unit>
             <trans-unit id="Vrijwilligerswerk">
-                <source>Vrijwilligerswerk</source>
+                <source>Volunteering</source>
                 <target>Vrijwilligerswerk</target>
             </trans-unit>
             <trans-unit id="Vuurwerk">
-                <source>Vuurwerk</source>
+                <source>Fireworks</source>
                 <target>Vuurwerk</target>
             </trans-unit>
             <trans-unit id="Wandelen">
-                <source>Wandelen</source>
+                <source>Walking</source>
                 <target>Wandelen</target>
             </trans-unit>
             <trans-unit id="Werkzaamheden">
-                <source>Werkzaamheden</source>
+                <source>Work activities</source>
                 <target>Werkzaamheden</target>
             </trans-unit>
             <trans-unit id="Wijkteam">
-                <source>Wijkteam</source>
+                <source>Neighborhood team</source>
                 <target>Wijkteam</target>
             </trans-unit>
             <trans-unit id="Winkelen">
-                <source>Winkelen</source>
+                <source>Shopping</source>
                 <target>Winkelen</target>
             </trans-unit>
             <trans-unit id="Winkelwagen">
-                <source>Winkelwagen</source>
+                <source>Shopping cart</source>
                 <target>Winkelwagen</target>
             </trans-unit>
             <trans-unit id="Wmo">
-                <source>WMO</source>
+                <source>Social Support Act</source>
                 <target>WMO</target>
             </trans-unit>
             <trans-unit id="Wolf">
@@ -819,31 +811,31 @@
                 <target>Wolf</target>
             </trans-unit>
             <trans-unit id="WoningZoeken">
-                <source>Woning zoeken</source>
+                <source>Searching for housing</source>
                 <target>Woning zoeken</target>
             </trans-unit>
             <trans-unit id="WozWaarde">
-                <source>WOZ waarde</source>
+                <source>WOZ value</source>
                 <target>WOZ waarde</target>
             </trans-unit>
             <trans-unit id="ZelfbeheerTegel">
-                <source>Zelfbeheer tegel</source>
+                <source>Self-management tile</source>
                 <target>Zelfbeheer tegel</target>
             </trans-unit>
             <trans-unit id="ZelfstandigWonen">
-                <source>Zelfstandig wonen</source>
+                <source>Living independently</source>
                 <target>Zelfstandig wonen</target>
             </trans-unit>
             <trans-unit id="Zoeken">
-                <source>Zoeken</source>
+                <source>Search</source>
                 <target>Zoeken</target>
             </trans-unit>
             <trans-unit id="Zwemabonnement">
-                <source>Zwemabonnement</source>
+                <source>Swimming subscription</source>
                 <target>Zwemabonnement</target>
             </trans-unit>
             <trans-unit id="Zwemmen">
-                <source>Zwemmen</source>
+                <source>Swimming</source>
                 <target>Zwemmen</target>
             </trans-unit>
             <trans-unit id="identifier">
