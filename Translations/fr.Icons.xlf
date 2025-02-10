@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.0">
-  <file original="Icons.xlf" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="Icons.xlf" source-language="nl" datatype="plaintext" target-language="fr">
     <body>
       <trans-unit id="Aanmelden">
         <source>Log in</source>
@@ -76,7 +76,7 @@
       </trans-unit>
       <trans-unit id="Attentie">
         <source>Attention</source>
-        <target state="translated">Attention</target>
+        <target state="needs-translation">Attention</target>
       </trans-unit>
       <trans-unit id="Auto">
         <source>Car</source>
@@ -92,7 +92,7 @@
       </trans-unit>
       <trans-unit id="Begroting">
         <source>Budget</source>
-        <target state="translated">Budget</target>
+        <target state="needs-translation">Budget</target>
       </trans-unit>
       <trans-unit id="Belastingen">
         <source>Taxes</source>
@@ -104,7 +104,7 @@
       </trans-unit>
       <trans-unit id="Bevolking">
         <source>Population</source>
-        <target state="translated">Population</target>
+        <target state="needs-translation">Population</target>
       </trans-unit>
       <trans-unit id="Bevrijding">
         <source>Liberation</source>
@@ -164,7 +164,7 @@
       </trans-unit>
       <trans-unit id="Documenten">
         <source>Documents</source>
-        <target state="translated">Documents</target>
+        <target state="needs-translation">Documents</target>
       </trans-unit>
       <trans-unit id="Duurzaamheid">
         <source>Sustainability</source>
@@ -320,7 +320,7 @@
       </trans-unit>
       <trans-unit id="Informatie">
         <source>Information</source>
-        <target state="translated">Information</target>
+        <target state="needs-translation">Information</target>
       </trans-unit>
       <trans-unit id="InformatieEnBetalen">
         <source>Information and payments</source>
@@ -332,7 +332,7 @@
       </trans-unit>
       <trans-unit id="Inspraak">
         <source>Participation</source>
-        <target state="translated">Participation</target>
+        <target state="needs-translation">Participation</target>
       </trans-unit>
       <trans-unit id="Jeugd">
         <source>Youth</source>
@@ -376,7 +376,7 @@
       </trans-unit>
       <trans-unit id="LetOp">
         <source>Attention</source>
-        <target state="translated">Attention</target>
+        <target state="needs-translation">Attention</target>
       </trans-unit>
       <trans-unit id="Liefdadigheid">
         <source>Charity</source>
@@ -468,7 +468,7 @@
       </trans-unit>
       <trans-unit id="Onderhoud">
         <source>Maintenance</source>
-        <target state="translated">Maintenance</target>
+        <target state="needs-translation">Maintenance</target>
       </trans-unit>
       <trans-unit id="Ondernemen">
         <source>Entrepreneurship</source>
@@ -692,7 +692,7 @@
       </trans-unit>
       <trans-unit id="Tuinbouw">
         <source>Horticulture</source>
-        <target state="translated">Horticulture</target>
+        <target state="needs-translation">Horticulture</target>
       </trans-unit>
       <trans-unit id="Uittreksel">
         <source>Extract</source>
@@ -712,11 +712,11 @@
       </trans-unit>
       <trans-unit id="Vaccinatie">
         <source>Vaccination</source>
-        <target state="translated">Vaccination</target>
+        <target state="needs-translation">Vaccination</target>
       </trans-unit>
       <trans-unit id="Veerboot">
         <source>Ferry</source>
-        <target state="translated">Ferry</target>
+        <target state="needs-translation">Ferry</target>
       </trans-unit>
       <trans-unit id="VeiligeWijk">
         <source>Safe district</source>
@@ -796,7 +796,7 @@
       </trans-unit>
       <trans-unit id="Winkelen">
         <source>Shopping</source>
-        <target state="translated">Shopping</target>
+        <target state="needs-translation">Shopping</target>
       </trans-unit>
       <trans-unit id="Winkelwagen">
         <source>Shopping cart</source>
