@@ -6,6 +6,14 @@
                 <source>Log in</source>
                 <target>Aanmelden</target>
             </trans-unit>
+            <trans-unit id="Armoede">
+                <source>Poverty</source>
+                <target>Armoede</target>
+            </trans-unit>
+            <trans-unit id="Asbest">
+                <source>Asbestos</source>
+                <target>Asbest</target>
+            </trans-unit>
             <trans-unit id="Actueel">
                 <source>Current</source>
                 <target>Actueel</target>
@@ -106,6 +114,10 @@
                 <source>Population</source>
                 <target>Bevolking</target>
             </trans-unit>
+            <trans-unit id="Bomen">
+                <source>Trees</source>
+                <target>Bomen</target>
+            </trans-unit>
             <trans-unit id="Bevrijding">
                 <source>Liberation</source>
                 <target>Bevrijding</target>
@@ -162,6 +174,10 @@
                 <source>Contact municipality</source>
                 <target>Contact gemeente</target>
             </trans-unit>
+            <trans-unit id="Cultuur">
+                <source>Culture</source>
+                <target>Cultuur</target>
+            </trans-unit>
             <trans-unit id="Documenten">
                 <source>Documents</source>
                 <target>Documenten</target>
@@ -198,6 +214,10 @@
                 <source>Survey</source>
                 <target>Enquete</target>
             </trans-unit>
+            <trans-unit id="Erfgoed">
+                <source>Heritage</source>
+                <target>Erfgoed</target>
+            </trans-unit>
             <trans-unit id="Erfpacht">
                 <source>Ground lease</source>
                 <target>Erfpacht</target>
@@ -233,6 +253,10 @@
             <trans-unit id="Gebruikersvraag">
                 <source>User query</source>
                 <target>Gebruikersvraag</target>
+            </trans-unit>
+            <trans-unit id="Geld">
+                <source>Money</source>
+                <target>Geld</target>
             </trans-unit>
             <trans-unit id="Gegevenswoordenboek">
                 <source>Data dictionary</source>
@@ -274,9 +298,17 @@
                 <source>Commemoration</source>
                 <target>Herdenking</target>
             </trans-unit>
+            <trans-unit id="Hond">
+                <source>Dog</source>
+                <target>Hond</target>
+            </trans-unit>
             <trans-unit id="Hondenbelasting">
                 <source>Dog tax</source>
                 <target>Hondenbelasting</target>
+            </trans-unit>
+            <trans-unit id="HoogWater">
+                <source>High water</source>
+                <target>Hoog water</target>
             </trans-unit>
             <trans-unit id="Hoogbouw">
                 <source>High-rise building</source>
@@ -334,6 +366,14 @@
                 <source>Participation</source>
                 <target>Inspraak</target>
             </trans-unit>
+            <trans-unit id="Isolatie">
+                <source>Insulation</source>
+                <target>Isolatie</target>
+            </trans-unit>
+            <trans-unit id="Isoleren">
+                <source>Insulation</source>
+                <target>Isoleren</target>
+            </trans-unit>
             <trans-unit id="Jeugd">
                 <source>Youth</source>
                 <target>Jeugd</target>
@@ -359,7 +399,7 @@
                 <target>Koningsdag</target>
             </trans-unit>
             <trans-unit id="KopenEnHuren">
-                <source>King's Day</source>
+                <source>Buying and Renting</source>
                 <target>Kopen en huren</target>
             </trans-unit>
             <trans-unit id="KopenEnVerkopen">
@@ -442,6 +482,18 @@
                 <source>Housing market monitor</source>
                 <target>Monitor woningmarkt</target>
             </trans-unit>
+            <trans-unit id="MonumentAlgemeen">
+                <source>General Monument</source>
+                <target>Monument algemeen</target>
+            </trans-unit>
+            <trans-unit id="MonumentWoning">
+                <source>Monument housing</source>
+                <target>Monument woning</target>
+            </trans-unit>
+            <trans-unit id="Museum">
+                <source>Museum</source>
+                <target>Museum</target>
+            </trans-unit>
             <trans-unit id="NatuurLandschap">
                 <source>Nature landscape</source>
                 <target>Natuur landschap</target>
@@ -481,6 +533,18 @@
             <trans-unit id="Onderwijs">
                 <source>Education</source>
                 <target>Onderwijs</target>
+            </trans-unit>
+            <trans-unit id="OnderwijsHoger">
+                <source>Higher Education</source>
+                <target>Onderwijs hoger</target>
+            </trans-unit>
+            <trans-unit id="OnderwijsOpties">
+                <source>Education options</source>
+                <target>Onderwijs opties</target>
+            </trans-unit>
+            <trans-unit id="OnderwijsVoortgezet">
+                <source>Secondary Education</source>
+                <target>Onderwijs voortgezet</target>
             </trans-unit>
             <trans-unit id="OntheffingMilieuzone">
                 <source>Exemption from low emission zone</source>
@@ -530,6 +594,10 @@
                 <source>Company parking</source>
                 <target>Parkeren bedrijven</target>
             </trans-unit>
+            <trans-unit id="Participatie">
+                <source>Participation</source>
+                <target>Participatie</target>
+            </trans-unit>
             <trans-unit id="ParticipatieCampagne">
                 <source>Participation campaign</source>
                 <target>Participatie campagne</target>
@@ -541,6 +609,10 @@
             <trans-unit id="ParticipatieLike">
                 <source>Participation like</source>
                 <target>Participatie like</target>
+            </trans-unit>
+            <trans-unit id="ParticipatieAlgemeen">
+                <source>General Participation</source>
+                <target>Participatie algemeen</target>
             </trans-unit>
             <trans-unit id="ParticipatiePitch">
                 <source>Participation pitch</source>
@@ -786,6 +858,10 @@
                 <source>Walking</source>
                 <target>Wandelen</target>
             </trans-unit>
+            <trans-unit id="Welzijnswerk">
+                <source>Welfare work</source>
+                <target>Welzijnswerk</target>
+            </trans-unit>
             <trans-unit id="Werkzaamheden">
                 <source>Work activities</source>
                 <target>Werkzaamheden</target>
@@ -793,6 +869,14 @@
             <trans-unit id="Wijkteam">
                 <source>Neighborhood team</source>
                 <target>Wijkteam</target>
+            </trans-unit>
+            <trans-unit id="Windenergie">
+                <source>Wind energy</source>
+                <target>Windenergie</target>
+            </trans-unit>
+            <trans-unit id="Windmolens">
+                <source>Wind turbines</source>
+                <target>Windmolens</target>
             </trans-unit>
             <trans-unit id="Winkelen">
                 <source>Shopping</source>
