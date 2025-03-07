@@ -131,8 +131,8 @@
                 <target>Bladeren opruimen</target>
             </trans-unit>
             <trans-unit id="Bomen">
-                <source>Bomen</source>
-                <target>Trees</target>
+                <source>Trees</source>
+                <target>Bomen</target>
             </trans-unit>
             <trans-unit id="BouwenEnVerbouwen">
                 <source>Construction and renovation</source>
