@@ -11,24 +11,6 @@
             <trans-unit id="Afval">
                 <source>Waste</source>
             </trans-unit>
-            <trans-unit id="AfvalGFT">
-                <source>Organic waste</source>
-            </trans-unit>
-            <trans-unit id="AfvalGlascontainer">
-                <source>Glass container</source>
-            </trans-unit>
-            <trans-unit id="AfvalGroenbak">
-                <source>Green bin</source>
-            </trans-unit>
-            <trans-unit id="AfvalOphalen">
-                <source>Waste collection</source>
-            </trans-unit>
-            <trans-unit id="AfvalPMD">
-                <source>Plastic and packaging waste</source>
-            </trans-unit>
-            <trans-unit id="AfvalScheiden">
-                <source>Waste separation</source>
-            </trans-unit>
             <trans-unit id="AfvalbakAfvalzak">
                 <source>Waste bin trash bag</source>
             </trans-unit>
@@ -44,8 +26,26 @@
             <trans-unit id="Afvalcontainerpas">
                 <source>Waste container pass card</source>
             </trans-unit>
+            <trans-unit id="AfvalGFT">
+                <source>Organic waste</source>
+            </trans-unit>
+            <trans-unit id="AfvalGlascontainer">
+                <source>Glass container</source>
+            </trans-unit>
+            <trans-unit id="AfvalGroenbak">
+                <source>Green bin</source>
+            </trans-unit>
             <trans-unit id="Afvalkalender">
                 <source>Waste Calendar</source>
+            </trans-unit>
+            <trans-unit id="AfvalOphalen">
+                <source>Waste collection</source>
+            </trans-unit>
+            <trans-unit id="AfvalPMD">
+                <source>Plastic and packaging waste</source>
+            </trans-unit>
+            <trans-unit id="AfvalScheiden">
+                <source>Waste separation</source>
             </trans-unit>
             <trans-unit id="Afvalzak">
                 <source>Garbage Bag</source>
@@ -55,6 +55,12 @@
             </trans-unit>
             <trans-unit id="Airborne">
                 <source>Airborne</source>
+            </trans-unit>
+            <trans-unit id="Armoede">
+                <source>Poverty</source>
+            </trans-unit>
+            <trans-unit id="AsbestVerwijderen">
+                <source>Asbestos Removal</source>
             </trans-unit>
             <trans-unit id="Attentie">
                 <source>Attention</source>
@@ -92,6 +98,9 @@
             <trans-unit id="BladerenOpruimen">
                 <source>Leaf collection</source>
             </trans-unit>
+            <trans-unit id="Bomen">
+                <source>Bomen</source>
+            </trans-unit>
             <trans-unit id="BouwenEnVerbouwen">
                 <source>Construction and renovation</source>
             </trans-unit>
@@ -122,6 +131,9 @@
             <trans-unit id="ContactGemeente">
                 <source>Contact municipality</source>
             </trans-unit>
+            <trans-unit id="Cultuur">
+                <source>Culture</source>
+            </trans-unit>
             <trans-unit id="Documenten">
                 <source>Documents</source>
             </trans-unit>
@@ -148,6 +160,9 @@
             </trans-unit>
             <trans-unit id="Enquete">
                 <source>Survey</source>
+            </trans-unit>
+            <trans-unit id="Erfgoed">
+                <source>Heritage</source>
             </trans-unit>
             <trans-unit id="Erfpacht">
                 <source>Ground lease</source>
@@ -179,6 +194,9 @@
             <trans-unit id="Gegevenswoordenboek">
                 <source>Data dictionary</source>
             </trans-unit>
+            <trans-unit id="Geld">
+                <source>Money</source>
+            </trans-unit>
             <trans-unit id="Geluid">
                 <source>Sound</source>
             </trans-unit>
@@ -206,11 +224,17 @@
             <trans-unit id="Herdenking">
                 <source>Commemoration</source>
             </trans-unit>
+            <trans-unit id="Hond">
+                <source>Dog</source>
+            </trans-unit>
             <trans-unit id="Hondenbelasting">
                 <source>Dog tax</source>
             </trans-unit>
             <trans-unit id="Hoogbouw">
                 <source>High-rise building</source>
+            </trans-unit>
+            <trans-unit id="HoogWater">
+                <source>High water</source>
             </trans-unit>
             <trans-unit id="Horeca">
                 <source>Hospitality</source>
@@ -221,11 +245,11 @@
             <trans-unit id="Huis">
                 <source>House</source>
             </trans-unit>
-            <trans-unit id="HuisEnOmgeving">
-                <source>House and surroundings</source>
-            </trans-unit>
             <trans-unit id="HuiselijkGeweld">
                 <source>Domestic violence</source>
+            </trans-unit>
+            <trans-unit id="HuisEnOmgeving">
+                <source>House and surroundings</source>
             </trans-unit>
             <trans-unit id="HulpHuishouden">
                 <source>Household help</source>
@@ -248,8 +272,14 @@
             <trans-unit id="Inkomen">
                 <source>Income</source>
             </trans-unit>
+            <trans-unit id="Inloggen">
+                <source>Log in</source>
+            </trans-unit>
             <trans-unit id="Inspraak">
                 <source>Participation</source>
+            </trans-unit>
+            <trans-unit id="Isolatie">
+                <source>Insulation</source>
             </trans-unit>
             <trans-unit id="Jeugd">
                 <source>Youth</source>
@@ -270,7 +300,7 @@
                 <source>King's Day</source>
             </trans-unit>
             <trans-unit id="KopenEnHuren">
-                <source>King's Day</source>
+                <source>Buying and Renting</source>
             </trans-unit>
             <trans-unit id="KopenEnVerkopen">
                 <source>Buying and Selling</source>
@@ -332,6 +362,15 @@
             <trans-unit id="MonitorWoningmarkt">
                 <source>Housing market monitor</source>
             </trans-unit>
+            <trans-unit id="Monument">
+                <source>Monument</source>
+            </trans-unit>
+            <trans-unit id="MonumentWoning">
+                <source>Monument housing</source>
+            </trans-unit>
+            <trans-unit id="Museum">
+                <source>Museum</source>
+            </trans-unit>
             <trans-unit id="NatuurLandschap">
                 <source>Nature landscape</source>
             </trans-unit>
@@ -361,6 +400,15 @@
             </trans-unit>
             <trans-unit id="Onderwijs">
                 <source>Education</source>
+            </trans-unit>
+            <trans-unit id="OnderwijsBasis">
+                <source>Primary Education</source>
+            </trans-unit>
+            <trans-unit id="OnderwijsHoger">
+                <source>Higher Education</source>
+            </trans-unit>
+            <trans-unit id="OnderwijsVoortgezet">
+                <source>Secondary Education</source>
             </trans-unit>
             <trans-unit id="OntheffingMilieuzone">
                 <source>Exemption from low emission zone</source>
@@ -397,6 +445,9 @@
             </trans-unit>
             <trans-unit id="ParkerenBedrijven">
                 <source>Company parking</source>
+            </trans-unit>
+            <trans-unit id="Participatie">
+                <source>Participation</source>
             </trans-unit>
             <trans-unit id="ParticipatieCampagne">
                 <source>Participation campaign</source>
@@ -454,6 +505,9 @@
             </trans-unit>
             <trans-unit id="Rijbewijs">
                 <source>Driver's License</source>
+            </trans-unit>
+            <trans-unit id="Riool">
+                <source>Sewer</source>
             </trans-unit>
             <trans-unit id="Rioolheffing">
                 <source>Sewerage Levy</source>
@@ -590,11 +644,17 @@
             <trans-unit id="Wandelen">
                 <source>Walking</source>
             </trans-unit>
+            <trans-unit id="Welzijnswerk">
+                <source>Welfare work</source>
+            </trans-unit>
             <trans-unit id="Werkzaamheden">
                 <source>Work activities</source>
             </trans-unit>
             <trans-unit id="Wijkteam">
                 <source>Neighborhood team</source>
+            </trans-unit>
+            <trans-unit id="Windenergie">
+                <source>Wind energy</source>
             </trans-unit>
             <trans-unit id="Winkelen">
                 <source>Shopping</source>
