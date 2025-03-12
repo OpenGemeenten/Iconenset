@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.0">
-  <file original="Icons.xlf" source-language="en" datatype="plaintext" target-language="nl">
+  <file original="Icons.xlf" source-language="nl" datatype="plaintext" target-language="nl">
     <body>
       <trans-unit id="Aanmelden">
         <source>Log in</source>
@@ -865,6 +865,10 @@
       <trans-unit id="Werkzaamheden">
         <source>Work activities</source>
         <target state="translated">Werkzaamheden</target>
+      </trans-unit>
+      <trans-unit id="WieIsWie">
+        <source>Who is who</source>
+        <target state="needs-translation">Who is who</target>
       </trans-unit>
       <trans-unit id="Wijkteam">
         <source>Neighborhood team</source>
