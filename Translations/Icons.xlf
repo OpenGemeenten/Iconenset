@@ -650,6 +650,9 @@
             <trans-unit id="Werkzaamheden">
                 <source>Work activities</source>
             </trans-unit>
+            <trans-unit id="WieIsWie">
+                <source>Who is who</source>
+            </trans-unit>
             <trans-unit id="Wijkteam">
                 <source>Neighborhood team</source>
             </trans-unit>
