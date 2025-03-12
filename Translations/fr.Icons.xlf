@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.0">
-  <file original="Icons.xlf" source-language="nl" datatype="plaintext" target-language="fr">
+  <file original="Icons.xlf" source-language="en" datatype="plaintext" target-language="fr">
     <body>
       <trans-unit id="Aanmelden">
         <source>Log in</source>
