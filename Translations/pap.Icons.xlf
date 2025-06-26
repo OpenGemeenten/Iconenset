@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.0">
-  <file original="Icons.xlf" source-language="nl" datatype="plaintext" target-language="pap">
+  <file original="Icons.xlf" source-language="en" datatype="plaintext" target-language="pap">
     <body>
       <trans-unit id="Aanmelden">
         <source>Log in</source>
@@ -888,7 +888,7 @@
       </trans-unit>
       <trans-unit id="Wmo">
         <source>Social Support Act</source>
-        <target state="translated">Acta de apoyo social</target>
+        <target state="translated">Lei di Sosten Komunitario</target>
       </trans-unit>
       <trans-unit id="Wolf">
         <source>Wolf</source>
