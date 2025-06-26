@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.0">
-  <file original="Icons.xlf" source-language="nl" datatype="plaintext" target-language="fr">
+  <file original="Icons.xlf" source-language="en" datatype="plaintext" target-language="fr">
     <body>
       <trans-unit id="Aanmelden">
         <source>Log in</source>
@@ -520,7 +520,7 @@
       </trans-unit>
       <trans-unit id="Onderhoud">
         <source>Maintenance</source>
-        <target state="needs-translation">Maintenance</target>
+        <target state="translated">Entretien</target>
       </trans-unit>
       <trans-unit id="Ondernemen">
         <source>Entrepreneurship</source>
@@ -536,15 +536,15 @@
       </trans-unit>
       <trans-unit id="OnderwijsBasis">
         <source>Primary Education</source>
-        <target state="needs-translation">Primary Education</target>
+        <target state="translated">Éducation primaire</target>
       </trans-unit>
       <trans-unit id="OnderwijsHoger">
         <source>Higher Education</source>
-        <target state="needs-translation">Higher Education</target>
+        <target state="translated">Enseignement supérieur</target>
       </trans-unit>
       <trans-unit id="OnderwijsVoortgezet">
         <source>Secondary Education</source>
-        <target state="needs-translation">Secondary Education</target>
+        <target state="translated">Enseignement secondaire</target>
       </trans-unit>
       <trans-unit id="OntheffingMilieuzone">
         <source>Exemption from low emission zone</source>
@@ -764,7 +764,7 @@
       </trans-unit>
       <trans-unit id="Tuinbouw">
         <source>Horticulture</source>
-        <target state="needs-translation">Horticulture</target>
+        <target state="translated">Horticulture</target>
       </trans-unit>
       <trans-unit id="Uittreksel">
         <source>Extract</source>
