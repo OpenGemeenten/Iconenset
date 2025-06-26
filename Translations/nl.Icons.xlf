@@ -868,7 +868,7 @@
       </trans-unit>
       <trans-unit id="WieIsWie">
         <source>Who is who</source>
-        <target state="needs-translation">Who is who</target>
+        <target state="translated">Wie is wie</target>
       </trans-unit>
       <trans-unit id="Wijkteam">
         <source>Neighborhood team</source>
