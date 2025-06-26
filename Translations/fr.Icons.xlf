@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="Afval">
         <source>Waste</source>
-        <target state="translated">D\u00e9chets</target>
+        <target state="translated">Déchets</target>
       </trans-unit>
       <trans-unit id="AfvalbakAfvalzak">
         <source>Waste bin trash bag</source>
@@ -24,7 +24,7 @@
       </trans-unit>
       <trans-unit id="Afvalcontainer">
         <source>Waste container</source>
-        <target state="translated">Conteneur \u00e0 d\u00e9chets</target>
+        <target state="translated">Conteneur à déchets</target>
       </trans-unit>
       <trans-unit id="AfvalcontainerAfvalzak">
         <source>Waste container trash bag</source>
@@ -32,19 +32,19 @@
       </trans-unit>
       <trans-unit id="Afvalcontainerpas">
         <source>Waste container pass card</source>
-        <target state="translated">Conteneur pass d\u00e9chets</target>
+        <target state="translated">Conteneur pass déchets</target>
       </trans-unit>
       <trans-unit id="AfvalGFT">
         <source>Organic waste</source>
-        <target state="translated">D\u00e9chets biod\u00e9gradables</target>
+        <target state="translated">Déchets biodégradables</target>
       </trans-unit>
       <trans-unit id="AfvalGlascontainer">
         <source>Glass container</source>
-        <target state="translated">Conteneur \u00e0 verre</target>
+        <target state="translated">Conteneur à verre</target>
       </trans-unit>
       <trans-unit id="AfvalGroenbak">
         <source>Green bin</source>
-        <target state="translated">Bac \u00e0 d\u00e9chets verts</target>
+        <target state="translated">Bac à déchets verts</target>
       </trans-unit>
       <trans-unit id="Afvalkalender">
         <source>Waste Calendar</source>
@@ -52,15 +52,15 @@
       </trans-unit>
       <trans-unit id="AfvalOphalen">
         <source>Waste collection</source>
-        <target state="translated">Collecte des d\u00e9chets</target>
+        <target state="translated">Collecte des déchets</target>
       </trans-unit>
       <trans-unit id="AfvalPMD">
         <source>Plastic and packaging waste</source>
-        <target state="translated">D\u00e9chets PMD</target>
+        <target state="translated">Déchets PMD</target>
       </trans-unit>
       <trans-unit id="AfvalScheiden">
         <source>Waste separation</source>
-        <target state="translated">Tri des d\u00e9chets</target>
+        <target state="translated">Tri des déchets</target>
       </trans-unit>
       <trans-unit id="Afvalzak">
         <source>Garbage Bag</source>
@@ -136,7 +136,7 @@
       </trans-unit>
       <trans-unit id="BouwenEnVerbouwen">
         <source>Construction and renovation</source>
-        <target state="translated">Construction et r\u00e9novation</target>
+        <target state="translated">Construction et rénovation</target>
       </trans-unit>
       <trans-unit id="Bouwprojecten">
         <source>Construction projects</source>
@@ -184,7 +184,7 @@
       </trans-unit>
       <trans-unit id="Duurzaamheid">
         <source>Sustainability</source>
-        <target state="translated">Durabilit\u00e9</target>
+        <target state="translated">Durabilité</target>
       </trans-unit>
       <trans-unit id="EconomieWerkInkomen">
         <source>Economy work income</source>
@@ -676,7 +676,7 @@
       </trans-unit>
       <trans-unit id="Riool">
         <source>Sewer</source>
-        <target state="needs-translation">Sewer</target>
+        <target state="translated">Égout</target>
       </trans-unit>
       <trans-unit id="Rioolheffing">
         <source>Sewerage Levy</source>
@@ -716,11 +716,11 @@
       </trans-unit>
       <trans-unit id="SportCultureleActiviteit">
         <source>Sports cultural activity</source>
-        <target state="translated">Activit\u00e9 sportive culturelle</target>
+        <target state="translated">Activité sportive culturelle</target>
       </trans-unit>
       <trans-unit id="SportkledingMuziekinstrumenten">
         <source>Sportswear musical instruments</source>
-        <target state="translated">V\u00eatements de sport et instruments de musique</target>
+        <target state="translated">Vêtements de sport et instruments de musique</target>
       </trans-unit>
       <trans-unit id="StationSneltrein">
         <source>Station express train</source>
@@ -732,7 +732,7 @@
       </trans-unit>
       <trans-unit id="Stookverbod">
         <source>Burning prohibition</source>
-        <target state="translated">Interdiction de br\u00fbler</target>
+        <target state="translated">Interdiction de brbler</target>
       </trans-unit>
       <trans-unit id="Strand">
         <source>Beach</source>
@@ -744,23 +744,23 @@
       </trans-unit>
       <trans-unit id="TemperatuurMelding">
         <source>Temperature alert</source>
-        <target state="translated">Alerte temp\u00e9rature</target>
+        <target state="translated">Alerte température</target>
       </trans-unit>
       <trans-unit id="Thuiswerken">
         <source>Remote work</source>
-        <target state="translated">T\u00e9l\u00e9travail</target>
+        <target state="translated">Télétravail</target>
       </trans-unit>
       <trans-unit id="Toegankelijkheid">
         <source>Accessibility</source>
-        <target state="translated">Accessibilit\u00e9</target>
+        <target state="translated">Accessibilité</target>
       </trans-unit>
       <trans-unit id="Toeslag">
         <source>Surcharge</source>
-        <target state="translated">Suppl\u00e9ment</target>
+        <target state="translated">Supplément</target>
       </trans-unit>
       <trans-unit id="TrouwenEnGeregistreerdPartnerschap">
         <source>Marriage and registered partnership</source>
-        <target state="translated">Mariage et partenariat enregistr\u00e9</target>
+        <target state="translated">Mariage et partenariat enregistré</target>
       </trans-unit>
       <trans-unit id="Tuinbouw">
         <source>Horticulture</source>
@@ -792,27 +792,27 @@
       </trans-unit>
       <trans-unit id="VeiligeWijk">
         <source>Safe district</source>
-        <target state="translated">Quartier s\u00fbr</target>
+        <target state="translated">Quartier sûr</target>
       </trans-unit>
       <trans-unit id="Vergaderen">
         <source>Meetings</source>
-        <target state="translated">R\u00e9unir</target>
+        <target state="translated">Réunir</target>
       </trans-unit>
       <trans-unit id="VergaderenDigitaal">
         <source>Digital meetings</source>
-        <target state="translated">R\u00e9union digitale</target>
+        <target state="translated">Réunion digitale</target>
       </trans-unit>
       <trans-unit id="VergoedingEnergiekosten">
         <source>Energy cost compensation</source>
-        <target state="translated">Indemnisation des co\u00fbts \u00e9nerg\u00e9tiques</target>
+        <target state="translated">Indemnisation des coûts énergétiques</target>
       </trans-unit>
       <trans-unit id="VergunningAlgemeen">
         <source>General permit</source>
-        <target state="translated">Permis g\u00e9n\u00e9ral</target>
+        <target state="translated">Permis général</target>
       </trans-unit>
       <trans-unit id="Verhuizen">
         <source>Moving</source>
-        <target state="translated">D\u00e9m\u00e9nager</target>
+        <target state="translated">Déménager</target>
       </trans-unit>
       <trans-unit id="Verkeerslicht">
         <source>Traffic light</source>

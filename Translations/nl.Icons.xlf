@@ -72,7 +72,7 @@
       </trans-unit>
       <trans-unit id="Airborne">
         <source>Airborne</source>
-        <target state="needs-translation">Airborne</target>
+        <target state="translated">Airborne</target>
       </trans-unit>
       <trans-unit id="Armoede">
         <source>Poverty</source>
@@ -160,11 +160,11 @@
       </trans-unit>
       <trans-unit id="Chat">
         <source>Chat</source>
-        <target state="needs-translation">Chat</target>
+        <target state="translated">Chat</target>
       </trans-unit>
       <trans-unit id="Computer">
         <source>Computer</source>
-        <target state="needs-translation">Computer</target>
+        <target state="translated">Computer</target>
       </trans-unit>
       <trans-unit id="Computerregeling">
         <source>Computer scheme</source>
@@ -484,7 +484,7 @@
       </trans-unit>
       <trans-unit id="Monument">
         <source>Monument</source>
-        <target state="needs-translation">Monument</target>
+        <target state="translated">Monument</target>
       </trans-unit>
       <trans-unit id="MonumentWoning">
         <source>Monument housing</source>
@@ -492,7 +492,7 @@
       </trans-unit>
       <trans-unit id="Museum">
         <source>Museum</source>
-        <target state="needs-translation">Museum</target>
+        <target state="translated">Museum</target>
       </trans-unit>
       <trans-unit id="NatuurLandschap">
         <source>Nature landscape</source>
@@ -832,7 +832,7 @@
       </trans-unit>
       <trans-unit id="Virus">
         <source>Virus</source>
-        <target state="needs-translation">Virus</target>
+        <target state="translated">Virus</target>
       </trans-unit>
       <trans-unit id="Vlag">
         <source>Flag</source>
@@ -888,7 +888,7 @@
       </trans-unit>
       <trans-unit id="Wolf">
         <source>Wolf</source>
-        <target state="needs-translation">Wolf</target>
+        <target state="translated">Wolf</target>
       </trans-unit>
       <trans-unit id="WoningZoeken">
         <source>Searching for housing</source>
@@ -920,7 +920,7 @@
       </trans-unit>
       <trans-unit id="identifier">
         <source>source</source>
-        <target state="needs-translation">source</target>
+        <target state="translated">bron</target>
       </trans-unit>
     </body>
   </file>
