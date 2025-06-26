@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="Agenda">
         <source>Calendar</source>
-        <target state="needs-translation">Calendar</target>
+        <target state="translated">Kalender</target>
       </trans-unit>
       <trans-unit id="Airborne">
         <source>Airborne</source>
@@ -76,11 +76,11 @@
       </trans-unit>
       <trans-unit id="Armoede">
         <source>Poverty</source>
-        <target state="needs-translation">Poverty</target>
+        <target state="translated">Armut</target>
       </trans-unit>
       <trans-unit id="AsbestVerwijderen">
         <source>Asbestos Removal</source>
-        <target state="needs-translation">Asbestos Removal</target>
+        <target state="translated">Asbestentfernung</target>
       </trans-unit>
       <trans-unit id="Attentie">
         <source>Attention</source>
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="Auto">
         <source>Car</source>
-        <target state="needs-translation">Car</target>
+        <target state="translated">Auto</target>
       </trans-unit>
       <trans-unit id="Bedrijventerrein">
         <source>Business Park</source>
@@ -132,7 +132,7 @@
       </trans-unit>
       <trans-unit id="Bomen">
         <source>Trees</source>
-        <target state="needs-translation">Trees</target>
+        <target state="translated">Bäume</target>
       </trans-unit>
       <trans-unit id="BouwenEnVerbouwen">
         <source>Construction and renovation</source>
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="Brief">
         <source>Letter</source>
-        <target state="needs-translation">Letter</target>
+        <target state="translated">Brief</target>
       </trans-unit>
       <trans-unit id="Buitengebied">
         <source>Rural area</source>
@@ -160,11 +160,11 @@
       </trans-unit>
       <trans-unit id="Chat">
         <source>Chat</source>
-        <target state="needs-translation">Chat</target>
+        <target state="translated">Chat</target>
       </trans-unit>
       <trans-unit id="Computer">
         <source>Computer</source>
-        <target state="needs-translation">Computer</target>
+        <target state="translated">Computer</target>
       </trans-unit>
       <trans-unit id="Computerregeling">
         <source>Computer scheme</source>
@@ -176,7 +176,7 @@
       </trans-unit>
       <trans-unit id="Cultuur">
         <source>Culture</source>
-        <target state="needs-translation">Culture</target>
+        <target state="translated">Kultur</target>
       </trans-unit>
       <trans-unit id="Documenten">
         <source>Documents</source>
@@ -200,7 +200,7 @@
       </trans-unit>
       <trans-unit id="ElektrischLaden">
         <source>Electric vehicle charging</source>
-        <target state="needs-translation">Electric vehicle charging</target>
+        <target state="translated">Elektrofahrzeug laden</target>
       </trans-unit>
       <trans-unit id="ElektrischRijden">
         <source>Electric vehicle driving</source>
@@ -216,7 +216,7 @@
       </trans-unit>
       <trans-unit id="Erfgoed">
         <source>Heritage</source>
-        <target state="needs-translation">Heritage</target>
+        <target state="translated">Kulturerbe</target>
       </trans-unit>
       <trans-unit id="Erfpacht">
         <source>Ground lease</source>
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="F1">
         <source>Formula One</source>
-        <target state="needs-translation">Formula One</target>
+        <target state="translated">Formel Eins</target>
       </trans-unit>
       <trans-unit id="Fiets">
         <source>Bicycle</source>
@@ -260,7 +260,7 @@
       </trans-unit>
       <trans-unit id="Geld">
         <source>Money</source>
-        <target state="needs-translation">Money</target>
+        <target state="translated">Geld</target>
       </trans-unit>
       <trans-unit id="Geluid">
         <source>Sound</source>
@@ -300,7 +300,7 @@
       </trans-unit>
       <trans-unit id="Hond">
         <source>Dog</source>
-        <target state="needs-translation">Dog</target>
+        <target state="translated">Hund</target>
       </trans-unit>
       <trans-unit id="Hondenbelasting">
         <source>Dog tax</source>
@@ -312,7 +312,7 @@
       </trans-unit>
       <trans-unit id="HoogWater">
         <source>High water</source>
-        <target state="needs-translation">High water</target>
+        <target state="translated">Hochwasser</target>
       </trans-unit>
       <trans-unit id="Horeca">
         <source>Hospitality</source>
@@ -352,7 +352,7 @@
       </trans-unit>
       <trans-unit id="Informatie">
         <source>Information</source>
-        <target state="needs-translation">Information</target>
+        <target state="translated">Information</target>
       </trans-unit>
       <trans-unit id="InformatieEnBetalen">
         <source>Information and payments</source>
@@ -364,7 +364,7 @@
       </trans-unit>
       <trans-unit id="Inloggen">
         <source>Log in</source>
-        <target state="needs-translation">Log in</target>
+        <target state="translated">Anmelden</target>
       </trans-unit>
       <trans-unit id="Inspraak">
         <source>Participation</source>
@@ -372,7 +372,7 @@
       </trans-unit>
       <trans-unit id="Isolatie">
         <source>Insulation</source>
-        <target state="needs-translation">Insulation</target>
+        <target state="translated">Isolierung</target>
       </trans-unit>
       <trans-unit id="Jeugd">
         <source>Youth</source>
@@ -400,7 +400,7 @@
       </trans-unit>
       <trans-unit id="KopenEnHuren">
         <source>Buying and Renting</source>
-        <target state="needs-translation">Buying and Renting</target>
+        <target state="translated">Kaufen und Mieten</target>
       </trans-unit>
       <trans-unit id="KopenEnVerkopen">
         <source>Buying and Selling</source>
@@ -412,7 +412,7 @@
       </trans-unit>
       <trans-unit id="Leerlingenvervoer">
         <source>Pupil Transport</source>
-        <target state="needs-translation">Pupil Transport</target>
+        <target state="translated">Schülertransport</target>
       </trans-unit>
       <trans-unit id="LetOp">
         <source>Attention</source>
@@ -420,7 +420,7 @@
       </trans-unit>
       <trans-unit id="Liefdadigheid">
         <source>Charity</source>
-        <target state="needs-translation">Charity</target>
+        <target state="translated">Wohltätigkeit</target>
       </trans-unit>
       <trans-unit id="Locatie">
         <source>Location</source>
@@ -484,15 +484,15 @@
       </trans-unit>
       <trans-unit id="Monument">
         <source>Monument</source>
-        <target state="needs-translation">Monument</target>
+        <target state="translated">Denkmal</target>
       </trans-unit>
       <trans-unit id="MonumentWoning">
         <source>Monument housing</source>
-        <target state="needs-translation">Monument housing</target>
+        <target state="translated">Denkmalgeschütztes Wohnhaus</target>
       </trans-unit>
       <trans-unit id="Museum">
         <source>Museum</source>
-        <target state="needs-translation">Museum</target>
+        <target state="translated">Museum</target>
       </trans-unit>
       <trans-unit id="NatuurLandschap">
         <source>Nature landscape</source>
@@ -500,7 +500,7 @@
       </trans-unit>
       <trans-unit id="Nieuwsbrief">
         <source>Newsletter</source>
-        <target state="needs-translation">Newsletter</target>
+        <target state="translated">Newsletter</target>
       </trans-unit>
       <trans-unit id="Omgeving">
         <source>Environment</source>
@@ -536,15 +536,15 @@
       </trans-unit>
       <trans-unit id="OnderwijsBasis">
         <source>Primary Education</source>
-        <target state="needs-translation">Primary Education</target>
+        <target state="translated">Grundschule</target>
       </trans-unit>
       <trans-unit id="OnderwijsHoger">
         <source>Higher Education</source>
-        <target state="needs-translation">Higher Education</target>
+        <target state="translated">Hochschulbildung</target>
       </trans-unit>
       <trans-unit id="OnderwijsVoortgezet">
         <source>Secondary Education</source>
-        <target state="needs-translation">Secondary Education</target>
+        <target state="translated">Sekundarschule</target>
       </trans-unit>
       <trans-unit id="OntheffingMilieuzone">
         <source>Exemption from low emission zone</source>
@@ -596,7 +596,7 @@
       </trans-unit>
       <trans-unit id="Participatie">
         <source>Participation</source>
-        <target state="needs-translation">Participation</target>
+        <target state="translated">Beteiligung</target>
       </trans-unit>
       <trans-unit id="ParticipatieCampagne">
         <source>Participation campaign</source>
@@ -676,7 +676,7 @@
       </trans-unit>
       <trans-unit id="Riool">
         <source>Sewer</source>
-        <target state="needs-translation">Sewer</target>
+        <target state="translated">Kanalisation</target>
       </trans-unit>
       <trans-unit id="Rioolheffing">
         <source>Sewerage Levy</source>
@@ -684,7 +684,7 @@
       </trans-unit>
       <trans-unit id="Rioolwerkzaamheden">
         <source>Sewerage Works</source>
-        <target state="needs-translation">Sewerage Works</target>
+        <target state="translated">Kanalarbeiten</target>
       </trans-unit>
       <trans-unit id="RoerendeZaakbelasting">
         <source>Movable Property Tax</source>
@@ -712,7 +712,7 @@
       </trans-unit>
       <trans-unit id="Sport">
         <source>Sports</source>
-        <target state="needs-translation">Sports</target>
+        <target state="translated">Sport</target>
       </trans-unit>
       <trans-unit id="SportCultureleActiviteit">
         <source>Sports cultural activity</source>
@@ -736,7 +736,7 @@
       </trans-unit>
       <trans-unit id="Strand">
         <source>Beach</source>
-        <target state="needs-translation">Beach</target>
+        <target state="translated">Strand</target>
       </trans-unit>
       <trans-unit id="Subsidie">
         <source>Subsidy</source>
@@ -832,7 +832,7 @@
       </trans-unit>
       <trans-unit id="Virus">
         <source>Virus</source>
-        <target state="needs-translation">Virus</target>
+        <target state="translated">Virus</target>
       </trans-unit>
       <trans-unit id="Vlag">
         <source>Flag</source>
@@ -860,7 +860,7 @@
       </trans-unit>
       <trans-unit id="Welzijnswerk">
         <source>Welfare work</source>
-        <target state="needs-translation">Welfare work</target>
+        <target state="translated">Sozialarbeit</target>
       </trans-unit>
       <trans-unit id="Werkzaamheden">
         <source>Work activities</source>
@@ -872,31 +872,31 @@
       </trans-unit>
       <trans-unit id="Wijkteam">
         <source>Neighborhood team</source>
-        <target state="needs-translation">Neighborhood team</target>
+        <target state="translated">Stadtteilteam</target>
       </trans-unit>
       <trans-unit id="Windenergie">
         <source>Wind energy</source>
-        <target state="needs-translation">Wind energy</target>
+        <target state="translated">Windenergie</target>
       </trans-unit>
       <trans-unit id="Winkelen">
         <source>Shopping</source>
-        <target state="needs-translation">Shopping</target>
+        <target state="translated">Einkaufen</target>
       </trans-unit>
       <trans-unit id="Winkelwagen">
         <source>Shopping cart</source>
-        <target state="needs-translation">Shopping cart</target>
+        <target state="translated">Einkaufswagen</target>
       </trans-unit>
       <trans-unit id="Wmo">
         <source>Social Support Act</source>
-        <target state="needs-translation">Social Support Act</target>
+        <target state="translated">Gesetz zur sozialen Unterstützung</target>
       </trans-unit>
       <trans-unit id="Wolf">
         <source>Wolf</source>
-        <target state="needs-translation">Wolf</target>
+        <target state="translated">Wolf</target>
       </trans-unit>
       <trans-unit id="WoningZoeken">
         <source>Searching for housing</source>
-        <target state="needs-translation">Searching for housing</target>
+        <target state="translated">Wohnungssuche</target>
       </trans-unit>
       <trans-unit id="WozWaarde">
         <source>WOZ value</source>
@@ -904,23 +904,23 @@
       </trans-unit>
       <trans-unit id="ZelfbeheerTegel">
         <source>Self-management tile</source>
-        <target state="needs-translation">Self-management tile</target>
+        <target state="translated">Selbstverwaltungskachel</target>
       </trans-unit>
       <trans-unit id="ZelfstandigWonen">
         <source>Living independently</source>
-        <target state="needs-translation">Living independently</target>
+        <target state="translated">Selbstständig wohnen</target>
       </trans-unit>
       <trans-unit id="Zoeken">
         <source>Search</source>
-        <target state="needs-translation">Search</target>
+        <target state="translated">Suchen</target>
       </trans-unit>
       <trans-unit id="Zwemabonnement">
         <source>Swimming subscription</source>
-        <target state="needs-translation">Swimming subscription</target>
+        <target state="translated">Schwimmabonnement</target>
       </trans-unit>
       <trans-unit id="Zwemmen">
         <source>Swimming</source>
-        <target state="needs-translation">Swimming</target>
+        <target state="translated">Schwimmen</target>
       </trans-unit>
       <trans-unit id="identifier">
         <source>source</source>
