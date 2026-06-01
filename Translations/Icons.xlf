@@ -80,6 +80,12 @@
             <trans-unit id="Belastingen">
                 <source>Taxes</source>
             </trans-unit>
+            <trans-unit id="BelOns">
+                <source>Call us</source>
+            </trans-unit>
+            <trans-unit id="Bericht">
+                <source>Message</source>
+            </trans-unit>
             <trans-unit id="BetaaldatumsUitkering">
                 <source>Welfare Payment Dates</source>
             </trans-unit>
@@ -94,6 +100,9 @@
             </trans-unit>
             <trans-unit id="Bijstandsuitkering">
                 <source>Social assistance benefit</source>
+            </trans-unit>
+            <trans-unit id="BijzondereBijstand">
+                <source>Special social assistance</source>
             </trans-unit>
             <trans-unit id="BladerenOpruimen">
                 <source>Leaf collection</source>
@@ -134,8 +143,14 @@
             <trans-unit id="Cultuur">
                 <source>Culture</source>
             </trans-unit>
+            <trans-unit id="DenkVooruit">
+                <source>Think ahead</source>
+            </trans-unit>
             <trans-unit id="Documenten">
                 <source>Documents</source>
+            </trans-unit>
+            <trans-unit id="Dossier">
+                <source>File</source>
             </trans-unit>
             <trans-unit id="Duurzaamheid">
                 <source>Sustainability</source>
@@ -176,6 +191,9 @@
             <trans-unit id="Fiets">
                 <source>Bicycle</source>
             </trans-unit>
+            <trans-unit id="Formulier">
+                <source>Form</source>
+            </trans-unit>
             <trans-unit id="Geboorte">
                 <source>Birth</source>
             </trans-unit>
@@ -211,6 +229,9 @@
             </trans-unit>
             <trans-unit id="Gezicht">
                 <source>Face</source>
+            </trans-unit>
+            <trans-unit id="Gezondheid">
+                <source>Health</source>
             </trans-unit>
             <trans-unit id="Gladheid">
                 <source>Icing</source>
@@ -278,6 +299,9 @@
             <trans-unit id="Inspraak">
                 <source>Participation</source>
             </trans-unit>
+            <trans-unit id="Intimidatie">
+                <source>Intimidation</source>
+            </trans-unit>
             <trans-unit id="Isolatie">
                 <source>Insulation</source>
             </trans-unit>
@@ -313,6 +337,9 @@
             </trans-unit>
             <trans-unit id="LetOp">
                 <source>Attention</source>
+            </trans-unit>
+            <trans-unit id="Levensloop">
+                <source>Life course</source>
             </trans-unit>
             <trans-unit id="Liefdadigheid">
                 <source>Charity</source>
@@ -479,8 +506,17 @@
             <trans-unit id="PaspoortInternationaal">
                 <source>International passport</source>
             </trans-unit>
+            <trans-unit id="Plattegrond">
+                <source>Ground plan</source>
+            </trans-unit>
+            <trans-unit id="Polarisatie">
+                <source>Polarization</source>
+            </trans-unit>
             <trans-unit id="Politiek">
                 <source>Politics</source>
+            </trans-unit>
+            <trans-unit id="Portemonnee">
+                <source>Wallet</source>
             </trans-unit>
             <trans-unit id="Presentatie">
                 <source>Presentation</source>
@@ -500,8 +536,14 @@
             <trans-unit id="Recreatie">
                 <source>Recreation</source>
             </trans-unit>
+            <trans-unit id="Recycle">
+                <source>Recycle</source>
+            </trans-unit>
             <trans-unit id="RegelingLaagInkomen">
                 <source>Low Income Scheme</source>
+            </trans-unit>
+            <trans-unit id="Rekenhulp">
+                <source>Calculation aid</source>
             </trans-unit>
             <trans-unit id="Rijbewijs">
                 <source>Driver's License</source>
@@ -523,6 +565,9 @@
             </trans-unit>
             <trans-unit id="Schoolkostenregeling">
                 <source>School Fees Scheme</source>
+            </trans-unit>
+            <trans-unit id="Schuldhulpverlening">
+                <source>Debt assistance</source>
             </trans-unit>
             <trans-unit id="Sinterklaas">
                 <source>Saint Nicholas</source>
@@ -574,6 +619,9 @@
             </trans-unit>
             <trans-unit id="Tuinbouw">
                 <source>Horticulture</source>
+            </trans-unit>
+            <trans-unit id="Uitbuiting">
+                <source>Exploitation</source>
             </trans-unit>
             <trans-unit id="Uittreksel">
                 <source>Extract</source>
@@ -635,6 +683,9 @@
             <trans-unit id="Voeding">
                 <source>Nutrition</source>
             </trans-unit>
+            <trans-unit id="Vragen">
+                <source>Questions</source>
+            </trans-unit>
             <trans-unit id="Vrijwilligerswerk">
                 <source>Volunteering</source>
             </trans-unit>
@@ -643,6 +694,12 @@
             </trans-unit>
             <trans-unit id="Wandelen">
                 <source>Walking</source>
+            </trans-unit>
+            <trans-unit id="Weerbaarheid">
+                <source>Resilience</source>
+            </trans-unit>
+            <trans-unit id="WeerbaarheidDigitaal">
+                <source>Digital resilience</source>
             </trans-unit>
             <trans-unit id="Welzijnswerk">
                 <source>Welfare work</source>
@@ -685,6 +742,9 @@
             </trans-unit>
             <trans-unit id="Zoeken">
                 <source>Search</source>
+            </trans-unit>
+            <trans-unit id="Zorgverzekering">
+                <source>Health insurance</source>
             </trans-unit>
             <trans-unit id="Zwemabonnement">
                 <source>Swimming subscription</source>
